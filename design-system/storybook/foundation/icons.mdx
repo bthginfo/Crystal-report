@@ -1,0 +1,133 @@
+import { Meta } from '@storybook/addon-docs/blocks';
+
+<Meta title="Foundation/Icons" />
+
+<style>{`
+  :root{--ts-semantic-typography-font-family-default:"TUV SUD Pro",system-ui,sans-serif}
+  .icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+    gap: 24px;
+    margin-top: 2rem;
+  }
+  .icon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "TUV SUD Pro", system-ui, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: var(--ts-core-color-neutral-700, #333);
+  }
+  .icon-item ts-icon {
+    font-size: 32px;
+    margin-bottom: 8px;
+    color: var(--ts-core-color-neutral-900, #000);
+  }
+`}</style>
+
+<div
+    className="tuv-typo"
+    style={{ display: 'flex', gap: 20, flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}
+>
+    <div style={{ display: 'flex', gap: 20, justifyContent: 'center' }}>
+        <img src="/assets/material.png" alt="Themes preview" width="70" />
+        <img src="/assets/algorithm-logo.svg" alt="Logo" width="70" />
+    </div>
+    <h1>Icons</h1>
+</div>
+
+We use [Google Material Icons](https://fonts.google.com/icons) (Also called Google Material Symbol the new Google icons library) through the `<ts-icon>` component. The examples below show commonly used icons in our design system.
+
+## Usage
+
+#### Web Components
+
+```js
+<ts-icon name="home"></ts-icon>
+```
+
+#### React
+
+```jsx
+import { TsIcon } from '@truvantis/design-system/react';
+
+<TsIcon name="home"></TsIcon>;
+```
+
+#### Examples
+
+---
+
+<div className="icon-grid">
+    <div className="icon-item">
+        <ts-icon name="home"></ts-icon>
+        <span>home</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="settings"></ts-icon>
+        <span>settings</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="search"></ts-icon>
+        <span>search</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="check"></ts-icon>
+        <span>check</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="close"></ts-icon>
+        <span>close</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="visibility"></ts-icon>
+        <span>visibility</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="visibility_off"></ts-icon>
+        <span>visibility_off</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="person"></ts-icon>
+        <span>person</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="play_arrow"></ts-icon>
+        <span>play_arrow</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="pause"></ts-icon>
+        <span>pause</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="star"></ts-icon>
+        <span>star</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="content_copy"></ts-icon>
+        <span>content_copy</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="colorize"></ts-icon>
+        <span>colorize</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="drag_indicator"></ts-icon>
+        <span>drag_indicator</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="expand_more"></ts-icon>
+        <span>expand_more</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="chevron_left"></ts-icon>
+        <span>chevron_left</span>
+    </div>
+    <div className="icon-item">
+        <ts-icon name="chevron_right"></ts-icon>
+        <span>chevron_right</span>
+    </div>
+</div>
+
+More Icons [Google Material Icons](https://fonts.google.com/icons)

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=210mm, initial-scale=1.0">
+  <title>GATT Stage 1 Audit Report</title>
+  <link rel="preload" href="public/assets/TS_logo_RGB_1.png" as="image">
+  <style>
+    /* ... Design-System-Styles wie in audit-report-template.html ... */
+    body { font-family: Arial, sans-serif; color: #0B253B; background: #F2EFED; }
+    .main { margin: 0 auto; width: 210mm; min-height: 297mm; background: #fff; box-shadow: 0 2px 16px rgba(11,37,59,0.10); padding: 32px; }
+    .page-header { display: flex; justify-content: space-between; align-items: center; background: #0046AD; color: #fff; padding: 20px 32px 16px 32px; }
+    .logo-area img { height: 40px; }
+    .report-title { font-size: 20px; font-weight: 700; }
+    .meta-strip { font-size: 11px; color: #BEDBFE; margin-top: 4px; }
+    .accent-bar { height: 4px; background: #02ECA6; }
+    .section-title { font-size: 15px; font-weight: 700; color: #0046AD; border-bottom: 2px solid #02ECA6; padding-bottom: 6px; margin: 24px 0 14px 0; text-transform: uppercase; }
+    .data-grid { display: grid; grid-template-columns: 180px 1fr; font-size: 12px; margin-bottom: 16px; }
+    .data-grid .label { background: #F7FAFF; padding: 8px 12px; font-weight: 700; color: #0B253B; border-bottom: 1px solid #E8E8E8; }
+    .data-grid .value { padding: 8px 12px; color: #0B253B; border-bottom: 1px solid #E8E8E8; }
+    table { width: 100%; border-collapse: collapse; font-size: 12px; margin: 8px 0 16px 0; }
+    table thead th { background: #0046AD; color: #fff; font-weight: 700; font-size: 11px; text-transform: uppercase; padding: 10px 12px; }
+    table tbody td { padding: 9px 12px; border-bottom: 1px solid #E8E8E8; }
+    table tbody tr:nth-child(even) td { background: #F7FAFF; }
+    .disclaimer { background: #F4F4F4; border-radius: 4px; padding: 14px 16px; font-size: 10px; color: #747474; margin-top: 24px; }
+    .page-footer { display: flex; justify-content: space-between; align-items: center; padding: 10px 32px; font-size: 10px; color: #747474; border-top: 1px solid #E8E8E8; background: #fff; }
+    .page-number { font-weight: 700; color: #0046AD; }
+  </style>
+</head>
+<body>
+  <div class="main">
+    <div class="page-header">
+      <div class="logo-area">
+        <img src="public/assets/TS_logo_RGB_1.png" alt="TÜV SÜD Logo">
+      </div>
+      <div>
+        <div class="report-title">GATT Stage 1 Audit Report</div>
+        <div class="meta-strip">
+          <span>Datum: <strong>{Audit_Date}</strong></span>
+        </div>
+      </div>
+    </div>
+    <div class="accent-bar"></div>
+    <div class="section-title">Audit Details</div>
+    <div class="data-grid">
+      <div class="label">Proposed next regular audit date</div>
+      <div class="value">{Next_Audit_Date}</div>
+      <div class="label">Proposed next regular audit type</div>
+      <div class="value">{Next_Audit_Type}</div>
+    </div>
+    <div class="section-title">Audited Facilities</div>
+    <table>
+      <thead>
+        <tr><th>CBW ID</th><th>Facility details</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>113361</td><td>GATT Technologies B.V.<br>Transistorweg 5<br>6534 AT Nijmegen</td></tr>
+        <tr><td>120130</td><td>GATT Technologies BV<br>Transistorweg 7<br>6534 AT Nijmegen</td></tr>
+      </tbody>
+    </table>
+    <div class="section-title">Audit Criteria</div>
+    <div>European Regulations:</div>
+    <div>EN ISO 13485:2016 (+AC:2018+A11:2021) – Initial stage 1 audit</div>
+    <div>Defined processes and documentation of the auditee’s quality management system</div>
+    <div class="section-title">Audit Times</div>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Audit from</th><th>Audit to</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>27-09-2025</td><td>8:30 a.m.</td><td>5:30 p.m.</td></tr>
+      </tbody>
+    </table>
+    <div class="section-title">Distribution List</div>
+    <ul>
+      <li>Audit Team members</li>
+      <li>Certification Body / Notified Body</li>
+      <li>Applicant/Company</li>
+    </ul>
+    <div class="section-title">Disclaimer Statement</div>
+    <div class="disclaimer">
+      Auditing is based on a sampling process of the available information and therefore is not a guarantee of 100% conformity with requirements. Any audit recommendations are subject to an independent review prior to a decision concerning the awarding, continuation, update, or renewal of certification. A management system certification audit (initial, surveillance or recertification audit) is not a legal compliance audit (see ISO/IEC 17021-1:2015, 9.2.1.2).<br><br>
+      Date, Auditor<br>
+      This report may only be quoted in full. Any use for advertising purposes must be approved in writing. This report is confidential and the property of TÜV SÜD Product Service GmbH.
+    </div>
+    <div class="page-footer">
+      <span>Confidential – TÜV SÜD Product Service GmbH</span>
+      <span class="page-number">Seite 1</span>
+    </div>
+  </div>
+</body>
+</html>

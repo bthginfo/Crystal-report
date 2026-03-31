@@ -1,0 +1,146 @@
+/* Air */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Air.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Air.woff2') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-AirItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-AirItalic.woff2') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Thin */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Thin.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Thin.woff2') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-ThinItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-ThinItalic.woff2') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Light */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Light.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Light.woff2') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-LightItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-LightItalic.woff2') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Regular.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Regular.woff2') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-RegularItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-RegularItalic.woff2') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Medium.woff2') format('woff2'),
+        url('../fonts//TUVSUDPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-MediumItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-MediumItalic.woff2') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Bold.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Bold.woff2') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-BoldItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-BoldItalic.woff2') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Black */
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-Black.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-Black.woff2') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TUV SUD Pro';
+    src:
+        url('../fonts/TUVSUDPro-BlackItalic.woff2') format('woff2'),
+        url('../fonts/TUVSUDPro-BlackItalic.woff2') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}

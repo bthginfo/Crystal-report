@@ -1,0 +1,258 @@
+import { Meta } from '@storybook/addon-docs/blocks';
+
+<Meta title="Release Notes" />
+
+<style>{`
+  :root{--ts-semantic-typography-font-family-default:"TUV SUD Pro",system-ui,sans-serif}
+  .tuv-typo,.tuv-typo *{font-family:"TUV SUD Pro",system-ui,sans-serif!important}
+`}</style>
+
+<div className="tuv-typo" style={{ width: 'fit-content', margin: 'auto' }}>
+    <h1>Release Notes</h1>
+</div>
+---
+
+<div className="tuv-typo">
+    # Version 1.19.2
+        - <strong>`<ts-carousel>`</strong>
+            - Carousel loop now correctly preserves state of nested components when cloning slides.
+
+    # Version 1.19.1
+        - <strong>`<ts-button>`</strong>
+            - Adjusted to resolve SSR and SEO issues. Developers can now pass `<a>` tag attributes to the Button component, and it will render a proper anchor element with the correct attributes.
+            - The style is protected to prevent it from being overridden by external libraries such as Bootstrap, Material UI, and others.
+        - <strong>`<ts-date-range>`</strong>
+            - Fix the bug in the date range because of null and undefined values in the date range component.
+
+    # Version 1.19.0
+    - <strong>`<ts-step>`</strong>
+        - New component added to be used inside the stepper component. It represents each step in the stepper and contains the content of each step.
+    - <strong>`<ts-stepper>`</strong>
+        - New component added. It is a navigation component that allows users to navigate through a series of steps or stages in a process. It can be used for multi-step forms, onboarding processes, or similar flows.
+    - <strong>`<ts-accordion>`</strong>
+        - The height of the summary is now flexible. If not truncated, it adjusts to the content height.
+        - Property `truncate-summary` is optional. If provided it will truncate the summary text to one line. Otherwise, the summary will be displayed in its entirety, and the height will adjust accordingly.
+    - <strong>`<ts-button>`</strong>
+        - The styles of the button are aligned with the latest design.
+        - No changes in the API, so it should not cause any breaking changes.
+    - <strong>`<ts-button-group>`</strong>
+        - The styles of the button group are aligned with the latest design.
+        - No changes in the API, so it should not cause any breaking changes.
+    - <strong>`<ts-link>`</strong>
+        - Adjusted to resolve SSR and SEO issues. Developers can now pass `<a>` tag attributes to the Link component, and it will render a proper anchor element with the correct attributes.
+        - The style is protected to prevent it from being overridden by external libraries such as Bootstrap, Material UI, and others.
+    - <strong>`<ts-carousel>`</strong>
+        - The active pagination for vertical variant has been improved to be full width.
+
+    # Version 1.18.0
+    - <strong>`<ts-carousel>`</strong>
+        - Fix the issue with nested carousel and tab group.
+    - <strong>`<ts-tab>`</strong>
+        - Add hover, focus and active state.
+    - <strong>`<ts-tab-group>`</strong>
+        - Fix the position issue, now all positions are working as expected.
+        - Fix the issue with the close tab and activate the next tab.
+        - Add new custom event `ts-tab-click` when clicking on the tab, it will emit the event.
+    - <strong>`<ts-divider>`</strong>
+        - Add aria-hidden if the divider is decorative.
+        - Enable the property decorative.
+    - <strong>`<ts-button>`</strong>
+        - Add new property `prevent-anchor-tag` handle the case when the button is used as a link, it will prevent the default behavior of the anchor tag and emit a custom event instead.
+
+    # Version 1.17.1
+    - Fix the issue in the drawer component’s custom events. The events should no longer bubble up to the parent component
+
+    # Version 1.17.0
+    - <strong>`<ts-calendar-static>`</strong>
+        - New component.
+        - Is a static version of the date picker component, it can be used to display a calendar in a specific month and year, and allow users to select a date.
+    - <strong>`<ts-date-picker>`</strong>
+        - Improved input mask for a more intuitive and easier date editing experience.
+        - Added `footerAction` property to enable custom action buttons in the footer.
+        - Enhanced keyboard navigation for smoother month and year switching using arrow keys.
+    - <strong>`<ts-date-range>`</strong>
+        - Improved input mask for a more intuitive and easier date editing experience.
+        - Added `footerAction` property to enable custom action buttons in the footer.
+        - Enhanced keyboard navigation for smoother month and year switching using arrow keys.
+    - <strong>`<ts-icon-button>`</strong>
+        - Added hover state styling.
+        - Added more examples and stories in Storybook.
+    - <strong>`<ts-button>`</strong>
+        - Fixed the outline style.
+    - <strong>`<ts-carousel>`</strong>
+        - Added hover effect to navigation buttons.
+        - Fixed the loop behavior — the carousel now loops smoothly and infinitely in both directions.
+    - <strong>`<ts-tag>`</strong>
+        - Add hover state styling to the close icon.
+
+    # Version 1.16.0
+    - <strong>Form validation </strong>: Validation are improved in all Form components.
+    - <strong>`<ts-dropzone>` </strong>: Add new dropzone component.
+
+    # Version 1.15.0
+    - <strong>`<ts-toast>` </strong>: New component.
+    - <strong>`<ts-accordion-item>` </strong>: Add new `actions` variant. And new Property `truncate-summary`.
+    - <strong>`<ts-carousel>` </strong>: Add new custom events `ts-click-next` and `ts-click-previous`.
+    - <strong>`<ts-link>` </strong>: Add new properties `visited-color` and `underline`. The visited color changed.
+    - <strong>`<ts-icon>` </strong>: Add new properties variants `outline` and `filled` and style-type `rounded` & `shaped`.
+    - <strong>`<ts-icon-button>` </strong>: Add new properties variants `outline` and `filled` and style-type `rounded` & `shaped`.
+    - <strong>`<ts-tag>` </strong>: Improve the font size and the close icon for all size.
+    - <strong>`<ts-button>` </strong>: Add new variants `text-inverted` show inverted color the the mode.
+
+    # Version 1.14.0
+    - Add new Link `<ts-Link>` component.
+    - Improve the style of the Avatar `<ts-avatar>` component.
+    - Improve the style of the Alert `<ts-alert>` component.
+
+    # Version 1.13.0
+    - Fix the breadcrumb item click issue when using href property.
+    - Remove the include component from library.
+    - improve the stories and add more documentation in storybook.
+
+    # Version 1.12.0
+    - Fix the UTC date issue in datepicker and date range components.
+    - improve the style of the select, dropdown and menu components.
+    - Fix the nested menu item issue.
+
+    # Version 1.11.3
+    - Update the return object of datepicker and date range with UTC date.
+    - Improve and add new documentation in storybook.
+    - Improve the active state style in input component.
+
+    # Version 1.11.2
+    - Fix the accessibility issue in the carousel and breadcrumb components.
+    - Fix the events order in the accordion item summary.
+
+    # Version 1.11.1
+    - Fix the issue in the label visually hidden property.
+
+    # Version 1.11.0
+    - Improve the custom events for `ts-date-change` in date-range now contain date meta data.
+    - Improve the custom events for `ts-date-change` in date picker now contain date meta data.
+    (Note: this is a breaking change, please check the event detail object structure)
+    - Add new property `label-visually-hidden` to hide the label visually but still accessible for screen readers.
+    - Add new stories in storybook.
+
+    # Version 1.10.0
+    - Add new component Date range `ts-date-range`
+    - Add new button variants `accent01` and `accent02`
+    - Add new property to the dialog component `prevent-overlay-close`
+    - fix the color of the `ts-icon` and `ts-icon-button` for light and dark mode
+
+    # Version 1.9.0
+    - Add new components
+        - `ts-accordion`
+        - `ts-accordion-item`
+    - Details component `ts-details` is deprecated please use the new accordion components.
+
+    # Version 1.8.0
+    - Extend the tag component to have new properties, color, fontColor, borderColor, hasBorder
+    - Add clickable option to card component
+    - rename the property `show-footer-divider` to `show-divider`
+    - improve the accessibility in datepicker component
+
+    # Version 1.7.1
+    - Use Webfonts .woff2 in all components.
+
+    # Version 1.7.0
+    - Add Datepicker component (`ts-datepicker`).
+
+    # Version 1.6.3
+    - Fix the A11y issue in the breadcrumb and breadcrumb-item component.
+    - Add new property `show-footer-divider` to the card component.
+
+    # Version 1.6.2
+    - Fix the theme class names issue: now it should be easy to switch between themes by
+    changing the class name on the root element (ts-theme-light, ts-theme-dark).
+
+    # Version 1.6.1
+    - Update google material icons to the latest version.
+
+    # Version 1.6.0
+    - Remove Shoelace library dependency.
+    - add cspell.js to linting process.
+    - Update color-picker component.
+
+    # Version 1.5.1
+    - Fix the issue in multiple web component instance rendering in React.
+    - Improve the details components
+
+    # Version 1.5.0
+    - Improve the badge component
+    - Export all react components in the react entry file
+
+    # Version 1.4.2
+    - Fix the issue in the type definitions for custom events.
+
+    # Version 1.4.0
+    - Export custom events for all components.
+    - Create icon component and use google material icons.
+    - Create icon button component.
+
+    # Version 1.3.3
+    Export custom events for radio, menu, select, dialog and input components.
+
+    custom event are: onTsChange, onTsInput, onTsBlur, onTsFocus and more.
+
+    # Version 1.3.2
+    Export custom events for checkbox component.
+
+    custom event are: onTsChange, onTsInput, onTsBlur, onTsFocus
+
+    # Version 1.3.0
+    - New components added:
+        - Animated Image (`ts-animated-image`)
+        - Animation (`ts-animation`)
+        - Format Bytes (`ts-format-bytes`)
+        - Image comparer (`ts-image-comparer`)
+        - Include (`ts-include`)
+        - Mutation Observer (`ts-mutation-observer`)
+        - QR Code (`ts-qr-code`)
+        - Relative Time (`ts-relative-time`)
+        - Split Panel (`ts-split-panel`)
+        - Tag (`ts-tag`)
+        - Visually Hidden (`ts-visually-hidden`)
+
+    - export React entry file
+    - Add more stories to existing components
+
+    # Version 1.2.1
+    - Add new button variant 'navbar' to `ts-button`
+    - add new button stories for link and navbar variant.
+
+    # Version 1.2.0
+    - New Components added:
+        - `ts-color-picker`
+        - `ts-copy-button`
+        - `ts-details`
+        - `ts-skeleton`
+        - `ts-switch`
+
+    - Fix brand color and fonts styles in
+        - `ts-dialog`
+        - `ts-drawer`
+        - `ts-popup`
+        - `ts-spinner`
+        - `ts-tab`
+
+    # Version 1.1.4
+    - Rename the fonts to TÜV standard name
+
+    # Version 1.1.3
+    - Fix path to fonts assets
+
+    # Version 1.1.0
+    - Added new components: Alert, Badge, Rating, Spinner, and Icon.
+    - Fixed TÜV style issues across all components.
+    - Integrated the official TÜV standard font.
+    - Improved and extended Storybook examples.
+    - Added Get Started and Release Notes pages to Storybook.
+
+    # Version 1.0.17
+    - Improved and fixed several basic components.
+    - Enhanced and extended Storybook examples.
+
+    # Version 1.0.0
+    - Initial release with basic components.
+
+</div>

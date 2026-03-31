@@ -1,0 +1,48 @@
+AUDIT DETAILS
+Proposed next regular audit date: Proposed next regular audit type:
+AUDITED FACILITIES
+CBW ID	Facility details
+
+113361	GATT Technologies B.V.
+Transistorweg 5
+6534 AT Nijmegen
+120130	GATT Technologies BV
+Transistorweg 7
+6534 AT Nijmegen
+AUDIT CRITERIA
+European Regulations:
+EN ISO 13485:2016 (+AC:2018+A11:2021)	Initial stage 1 audit	Q5 113361 0002 Rev. 00
+Defined processes and documentation of the auditee’s quality management system
+AUDIT TIMES
+Date	Audit from	Audit to
+
+27-09-2025	8:30 a.m.	5:30 p.m.
+Distribution list:
+Audit Team members
+Certification Body / Notified Body
+Applicant/Company
+CHECKLIST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclaimer Statement
+Auditing is based on a sampling process of the available information and therefore is not a guarantee of 100% conformity with requirements. Any audit recommendations are subject to an independent review prior to a decision concerning the awarding, continuation, update, or renewal of certification. A management system certification audit (initial, surveillance or recertification audit) is not a legal compliance audit (see ISO/IEC 17021-1:2015, 9.2.1.2).
+
+Date, Auditor
+This report may only be quoted in full. Any use for advertising purposes must be approved in writing. This report is confidential and the property of TÜV SÜD Product Service GmbH.
+Version History
+

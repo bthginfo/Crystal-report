@@ -1,0 +1,139 @@
+import { Meta } from '@storybook/addon-docs/blocks';
+
+<Meta title="Get Started" />
+
+<style>{`
+  :root{--ts-semantic-typography-font-family-default:"TUV SUD Pro",system-ui,sans-serif}
+  .tuv-typo,.tuv-typo *{font-family:"TUV SUD Pro",system-ui,sans-serif!important}
+`}</style>
+
+<div
+    className="tuv-typo"
+    style={{ display: 'flex', gap: 20, flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}
+>
+    <div style={{ display: 'flex', gap: '20px', justifyContent: 'center' }}>
+        <img src="/assets/logo.svg" alt="Logo" width="90" height="80" />
+        <img src="/assets/algorithm-logo.svg" alt="Logo" width="70" />
+    </div>
+    <h1>TÜV SÜD Algorithm Design System</h1>
+</div>
+
+<div className="tuv-typo">
+    This design system is a collection of reusable, high-performance web components built on top of [Shoelace](https://shoelace.style) using Lit and Typescript and enhanced with custom styles and features.
+
+    The components are:
+
+    - **Accessible** – Built with a11y best practices in mind.
+    - **Themes** – Dark and light themes provided, and easy to customize.
+    - **Framework-Agnostic** – Usable in any frontend stack (e.g. React, Angular).
+    - **Interactive** – Fully documented and testable through Storybook.
+
+    ## Getting Started
+
+    To use this library, you can browse through the components listed in the sidebar.
+    Each component has its own story where you can see usage examples and documentation.
+
+    ## Prerequisites
+
+    - Node.js (>= 18.x recommended)
+    - Access to Azure DevOps private npm registry
+    - Personal Access Token (PAT) in Azure DevOps
+    - Add developer to npm artifacts group in Azure DevOps
+
+    ## Configure Azure DevOps Personal Access Token (PAT)
+
+    To install the private `@tuvsud/design-system` package from Azure DevOps, you need to:
+
+    ### 1. Generate PAT
+
+    - Go to [Azure DevOps PAT page](https://dev.azure.com/tuvsud01/_usersSettings/tokens)
+    - Click **New Token**
+    - Add Token Name
+    - Set scopes to include `Packaging (Read)`
+
+    ### 2. Set up `.npmrc`
+
+    Create a `.npmrc` file in your project root:
+
+    ```ini
+    @tuvsud:registry=https://pkgs.dev.azure.com/tuvsud01/1ef6e60b-e4cb-4e84-9f50-6f30c159198e/_packaging/DesignSystem/npm/registry/
+    //pkgs.dev.azure.com/tuvsud01/1ef6e60b-e4cb-4e84-9f50-6f30c159198e/_packaging/DesignSystem/npm/registry/:_authToken=YOUR_AUTH_TOKEN
+    always-auth=true
+    ```
+
+    Replace `YOUR_AUTH_TOKEN` with your actual token from Azure DevOps.
+
+    ### 3. Install
+    For now we provide the package via npm, so you can install it using npm.
+
+    ```bash
+    npm install @tuvsud/design-system
+    ```
+
+    ## Example Usage React
+
+    The light or dark mode can be imported in React apps at the entry point of the project
+    ```js
+    import '@tuvsud/design-system/tokens/css/light.css';
+    ```
+
+    To use the TÜV SÜD brand font import the fonts at the entry point of the project
+    ```js
+    import '@tuvsud/design-system/theme/fonts.css';
+    ```
+
+    ```js
+    import { TsButton } from "@tuvsud/design-system/react/button";
+
+    <TsButton onClick={clickHandler} variant="primary">Button</TsButton>
+    ```
+    More About React usage can be found [here](/docs/foundation-react--docs)
+
+    ## Angular Configuration
+
+    Add the package to `main.ts`
+    ```js
+    import "@tuvsud/design-system";
+    ```
+
+    To import one component add just the component to the `main.ts`
+    ```js
+    import "@tuvsud/design-system/button";
+    ```
+
+    add the schema to `app.ts`
+    ```js
+    @Component({
+      ...
+      schemas: [CUSTOM_ELEMENTS_SCHEMA]
+    })
+    ```
+
+    The light or dark mode can be added to `angular.json`
+    ```js
+    "styles": [
+        "src/styles.css",
+        "node_modules/@tuvsud/design-system/dist/tokens/bundle-light.css",
+        "node_modules/@tuvsud/design-system/dist/theme/fonts.css"
+    ]
+    ```
+
+    Example Usage
+    ```js
+    <ts-button variant="primary">Button</ts-button>
+    ```
+    ## Docker
+    Using the package inside a Docker container may cause issues due to the Personal Access Token (PAT) stored in the .npmrc file.
+    Please refer to the [npm documentation](https://docs.npmjs.com/docker-and-private-modules) on how to use private modules securely.
+
+    ## Typography
+    To use the TÜV SÜD brand font across all web components, copy the .woff font files into the `public/fonts` folder.
+
+    Download the [Fonts](https://dev.azure.com/tuvsud01/ALGORITHM%20Design%20System/_git/design-system?path=/public/fonts)
+
+    ## Notes
+    The TÜV web components are built on top of Shoelace and come fully bundled and exposed via the `@tuvsud/design-system` package.
+
+    There's no need to manually install the Shoelace library or apply additional styling — all required styles and component registrations are handled automatically.
+
+</div>

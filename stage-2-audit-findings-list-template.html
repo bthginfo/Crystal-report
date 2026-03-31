@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=210mm, initial-scale=1.0">
+  <title>GATT Stage 2 Audit Findings List</title>
+  <link rel="preload" href="public/assets/TS_logo_RGB_1.png" as="image">
+  <style>
+    body { font-family: Arial, sans-serif; color: #0B253B; background: #F2EFED; }
+    .main { margin: 0 auto; width: 210mm; min-height: 297mm; background: #fff; box-shadow: 0 2px 16px rgba(11,37,59,0.10); padding: 32px; }
+    .page-header { display: flex; justify-content: space-between; align-items: center; background: #0046AD; color: #fff; padding: 20px 32px 16px 32px; }
+    .logo-area img { height: 40px; }
+    .report-title { font-size: 20px; font-weight: 700; }
+    .meta-strip { font-size: 11px; color: #BEDBFE; margin-top: 4px; }
+    .accent-bar { height: 4px; background: #02ECA6; }
+    .section-title { font-size: 15px; font-weight: 700; color: #0046AD; border-bottom: 2px solid #02ECA6; padding-bottom: 6px; margin: 24px 0 14px 0; text-transform: uppercase; }
+    table { width: 100%; border-collapse: collapse; font-size: 12px; margin: 8px 0 16px 0; }
+    table thead th { background: #0046AD; color: #fff; font-weight: 700; font-size: 11px; text-transform: uppercase; padding: 10px 12px; }
+    table tbody td { padding: 9px 12px; border-bottom: 1px solid #E8E8E8; }
+    table tbody tr:nth-child(even) td { background: #F7FAFF; }
+    .disclaimer { background: #F4F4F4; border-radius: 4px; padding: 14px 16px; font-size: 10px; color: #747474; margin-top: 24px; }
+    .page-footer { display: flex; justify-content: space-between; align-items: center; padding: 10px 32px; font-size: 10px; color: #747474; border-top: 1px solid #E8E8E8; background: #fff; }
+    .page-number { font-weight: 700; color: #0046AD; }
+  </style>
+</head>
+<body>
+  <div class="main">
+    <div class="page-header">
+      <div class="logo-area">
+        <img src="public/assets/TS_logo_RGB_1.png" alt="TÜV SÜD Logo">
+      </div>
+      <div>
+        <div class="report-title">GATT Stage 2 Audit Findings List</div>
+        <div class="meta-strip">
+          <span>Datum: <strong>{Audit_Date}</strong></span>
+        </div>
+      </div>
+    </div>
+    <div class="accent-bar"></div>
+    <div class="section-title">Categorization of Findings</div>
+    <ul>
+      <li><strong>Major Nonconformity:</strong> Non-fulfillment of a requirement that affects the capability of the management system to achieve the intended results.</li>
+      <li><strong>Minor Nonconformity:</strong> Non-fulfillment of a requirement that does not affect the capability of the management system to achieve the intended results.</li>
+      <li><strong>Grade 1 - 5:</strong> Grading according to GHTF/SG3/N19:2012 and MDSAP AU P0037.</li>
+    </ul>
+    <div class="section-title">Audit Findings</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Nonconformity Number</th>
+          <th>Description</th>
+          <th>Requirement</th>
+          <th>Status</th>
+          <th>Due Date</th>
+          <th>Evidence</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>TNR-000735</td>
+          <td>Regulatory Strategy Plan Template F-QA-027 is currently not used as required by SOP-QA-016 Regulatory Strategy and Medical Device File, Version 4.</td>
+          <td>MDR - Article 10_9a, MDR - Annex IX_2.2 (c)</td>
+          <td>Pending implementation</td>
+          <td>{Due_Date_735}</td>
+          <td>F-QA-027, SOP-QA-016</td>
+        </tr>
+        <tr>
+          <td>TNR-000736</td>
+          <td>No clear determination that any necessary corrective actions shall be taken without undue delay as well as a clear observance of due dates.</td>
+          <td>EN ISO 13485:2016: 8.5.2, MDR - Article 10.9 ¶3 l</td>
+          <td>Pending implementation</td>
+          <td>{Due_Date_736}</td>
+          <td>SOP-QA-015, CAPA22006</td>
+        </tr>
+        <tr>
+          <td>TNR-000737</td>
+          <td>Not all personnel performing work related to animal origin is required to be competent for animal origin per job description. Training for animal origin related topics is not provided.</td>
+          <td>EN ISO 13485:6.2</td>
+          <td>Pending implementation</td>
+          <td>{Due_Date_737}</td>
+          <td>DOC-1333, DOC-1344, F-RM-002</td>
+        </tr>
+        <tr>
+          <td>TNR-000738</td>
+          <td>Not all types of documents used in the QM system are listed in the quality manual. Some QMS key documents are from the supplier and seem not to be adequately embedded in the QMS or medical device file.</td>
+          <td>EN ISO 13485:2016: 4.2</td>
+          <td>Pending implementation</td>
+          <td>{Due_Date_738}</td>
+          <td>SOP-QA-422, SOP-QA-003, SOP-QA-014</td>
+        </tr>
+        <tr>
+          <td>TNR-000739</td>
+          <td>Responsibility for the collection, handling, and storage of materials shall be assigned to qualified personnel. The manufacturer shall establish and maintain procedures for identifying the training needs and provide for the training of all personnel performing activities affecting quality.</td>
+          <td>ISO 22442-2:2020, EN ISO 13485:2016: 7.4</td>
+          <td>Pending implementation</td>
+          <td>{Due_Date_739}</td>
+          <td>SOP-QA-002, SOP-QA-001</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="disclaimer">
+      All findings must be acknowledged and addressed by the client. Failure to respond adequately by the due date may result in suspension or withdrawal of certification.
+    </div>
+    <div class="page-footer">
+      <span>Confidential – TÜV SÜD Product Service GmbH</span>
+      <span class="page-number">Seite 1</span>
+    </div>
+  </div>
+</body>
+</html>

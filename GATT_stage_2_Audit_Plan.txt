@@ -1,0 +1,136 @@
+AUDIT DETAILS
+Total manhours on site 48 hours 
+AUDITED FACILITIES
+CBW ID	Facility details	Audit Hours
+
+113361	GATT Technologies B.V.	39 hours 
+Transistorweg 5
+6534 AT Nijmegen
+120130	GATT Technologies BV	9 hours 
+Transistorweg 7
+6534 AT Nijmegen
+AUDIT CRITERIA
+European Regulations:
+EN ISO 13485:2016 (+AC:2018+A11:2021)	Initial stage 2 audit	Q5 113361 0002 Rev. 00
+Defined processes and documentation of the auditee’s quality management system
+
+Date, Auditor	Date, Company Representative
+AUDIT OBJECTIVES
+The objectives of this audit are: 
+Determine conformance of the Management System with the Audit Criteria (see above) 
+Evaluate the effectiveness of the Management System in meeting its specified quality objectives 
+Evaluate the capability of the Management System to ensure compliance with relevant statutory, regulatory and contractual requirements  
+Evaluate the effectiveness of the Management System to ensure that agreed requirements for products and/or services are met 
+Identify areas for potential improvement of the Management System
+AUDIT PLAN
+Legend
+Korgaonkar Karan (Co-Auditor - MDT 2010, MDT2011, MDA 0306)
+Keller  Tobias (Co-Auditor) Nadine Helfert (EA 33, MDA0315)
+Auditee Participants:
+Vit Klein (Auditee participant - QA Manager)
+David Grennan (Auditee participant - Senior Director Quality (Biosurgery))
+Eric Goossens (Auditee participant - Director Supply Chain & Operations)
+Rosa Felix Lanao (Auditee participant - Director QA / RA)
+Geert van Gansewinkel (Auditee participant - Site Head)
+Johann Bendex (Auditee participant - CTO)
+Eric Goossens (Auditee participant - Director Supply Chain & Operations)
+AT = Auditor Trainee - Auditor that is assigned to the audit and acts additionally as a trainee to obtain authorization for defined codes in a respective audit plan session
+coAT = Co-Auditor Trainee - Co-Auditor that is assigned to the audit and acts additionally as a trainee to obtain authorization for defined codes in a respective audit plan session
+T = Trainee - Trainee that is assigned to the audit to obtain authorization for defined codes
+E(M)A = Evaluating (Monitoring) Auditor - Auditor that is assigned to the audit to monitor another auditor to renew authorization
+A room for the Audit Team should be provided to ensure undisturbed communication as well as safe keeping of documents. The Auditors are accompanied by the Audit responsible during the Audit. The Audit Plan can be adjusted during the Audit. Opening and closing meeting are fixed.
+Please note: The company and the Lead Auditor should discuss any personal protective equipment needed for the Audit well in advance before the start of the Audit. Protective equipment (helmet, safety shoes, safety goggles, cleanroom clothes) must be provided by the audited company.
+Day 1: 21-03-2023
+Location: GATT Technologies B.V., Transistorweg 5, 6534 AT Nijmegen
+	Time	Audit Scope	Participants
+9:15 a.m. - 10:30 a.m.	Management: Management Reviews	Alexander Spychaj
+Karan Korgaonkar
+Audit Criteria
+8.1 General, 8.4 Analysis of data
+5.1 Management commitment, 5.2 Customer focus, 5.3 Quality policy, 5.4.1 Quality objectives, 5.4.2 Quality management system planning, 5.5.1 Responsibility and authority, 5.5.2 Management representative, 5.5.3 Internal communication, 5.6.1 General, 5.6.2 Review input, 5.6.3 Review output, Annex IX 2.2 2 (b1) 
+Organisational structures, role and responsibilities, Article 10.16 2 Financial coverage for liability, Article 10.9 3 (j) Handling communication with stakeholders, Article 15 Person responsible for regulatory compliance 8.2.1 Feedback
+Article 10.2 Risk management system
+
+9:15 a.m. - 11:45 a.m.	Design and Development: Design and 	Nadine Helfert Development
+Audit Criteria
+7.3.9 Control of design and development changes, Annex IX 2.2 2 (c8) Quality management system assessment, Article 10.9 1 Implementation of changes to product design and changes to harmonised standards and CS in timely man, Article 8 Use of harmonised standards, Article 9 Common specifications
+7.3.3 Design and development inputs, Annex IX 2.2 2 (c2) Identification of GSPR and consideration of SOTA, harmonised standards and CS, Article 10.9 3 (b) Identification of GSPR and consideration of SOTA, harmonised standards and CS, Article 8 Use of harmonised standards, Article 9 Common specifications, MDCG 2021-5 Guidance standardisation
+7.3.4 Design and development outputs, 7.3.6 Design and development verification, 7.3.7 Design and development validation, Annex I GENERAL SAFETY AND PERFORMANCE REQUIREMENTS, Annex IX 2.1 10 
+Clinical evaluation, Annex IX 2.1 11 Clinical evaluation, Annex IX 2.2 2 (c4) Clinical evaluation, Annex IX 2.2 2 
+(c5) Solutions to fulfill requirements design and construction, including pre-clinical evaluation, Annex IX 2.2 2 
+(c7) Device identification procedures, Annex XI 6.1 ① Devices covered by QMS/Clinical evaluation, Annex XIV 
+CLINICAL EVALUATION AND POST-MARKET CLINICAL FOLLOW-UP, Annex XV Clinical investigations, Article 10.3 Clinical evaluation, Article 10.9 (f) Clinical evaluation, Article 61 Clinical evaluation, Article 62 General requirements regarding clinical investigations conducted to demonstrate conformity..., Article 63 Informed consent, Article 64 Clinical investigations on incapacitated subjects, Article 65 Clinical investigations on minors, Article 66 Clinical investigations on pregnant or breastfeeding women, Article 67 Additional national measures, 
+Article 68 Clinical investigations in emergency situations, Article 69 Damage compensation, Article 70 
+Application for clinical investigations, Article 72 Conduct of a clinical investigation, Article 73 Electronic system on clinical investigations, Article 74 Clinical investigations regarding devices bearing the CE marking, Article 75 Substantial modifications to clinical investigations, Article 80 Recording and reporting of adverse events that occur during clinical investigations, MDCG 2020-1 Guidance on clinical evaluation (MDR), MDCG 2020-5 Guidance on clinical evaluation – Equivalence, MDCG 2024-10 Clinical evaluation of orphan medical devices
+7.3.2 Design and development planning, 7.3.5 Design and development review, Annex I GENERAL SAFETY AND 
+PERFORMANCE REQUIREMENTS, Annex IX 2.2 2 (b2) Quality management system assessment, Annex IX 2.2 2 
+(c3) Risk management system, Annex XI 6.2 2) Monitoring of QMS for design and device quality, Article 10.2 Risk management system, Article 10.9 (e) Risk management system
+7.3.8 Design and development transfer
+5.1 Management commitment, 5.2 Customer focus
+7.1 Planning of product realization
+
+10:30 a.m. - 11:45 a.m.	Medical Device Reporting: PMS Vigilance	Karan Korgaonkar
+Audit Criteria
+8.2.3 Reporting to regulatory authorities, Annex IX 2.1 1 8 Quality management system assessment, Annex IX 
+2.1 1 9 Quality management system assessment, Article 10.12 Vigilance reporting and FSCA, Article 10.13 Vigilance reporting and FSCA, Article 10.9 3 (k) Vigilance reporting and FSCA, Article 87 Reporting of serious incidents and field safety corrective actions, Article 88 Trend reporting, Article 89 Analysis of serious incidents and field safety corrective actions, Article 90 Analysis of vigilance data, Article 91 Implementing acts, Article 92 Electronic system on vigilance and on post-market surveillance, MDCG 2023-3 Q&A vigilance terms and concepts, MDCG 2024-1 Device Specific Vigilance Guidance (DSVG) Template
+
+10:30 a.m. - 11:45 a.m.	Management: Quality management system	Alexander Spychaj
+Audit Criteria
+4.1.1 General requirements, 4.1.2 General requirements, 4.1.3 General requirements, 4.1.4 General requirements, 4.1.5 General requirements, 4.1.6 General requirements, 4.2.1 General, 4.2.2 Quality manual, 4.2.3 Medical device file, 4.2.4 Control of documents, 4.2.5 Control of records, Annex IX 1 Establish and maintain QMS, Annex IX 2.2 1 S2 Quality policy, Quality manual and Quality planning, Annex IX 2.2 2 (c1) Strategy for regulatory compliance, Annex XI 4 Establish and maintain QMS, Annex XI 6.2 S2 Quality policy, Quality manual and Quality planning, Article 1 Subject matter and scope, Article 10 General obligations of manufacturers, Article 10.8 1 Retention period of DoC, TD, D&D procedure and records, QMS changes, and relevant certificates incl., Article 10.9 2 Coverage of the QMS requirements to comply with the regulation including roles of the auditee, Article 10.9 3 (a) Strategy for regulatory compliance including national laws, Article 11 Authorised representative, Article 13 General obligations of importers, Article 14 General obligations of distributors, Article 22 Systems and procedure packs, Article 23 Parts and components, Article 51 Classification of devices, Article 52 Conformity assessment procedures, MDCG 2019-14 MDR codes, MDCG 
+2021-24 Classification, MDCG 2021-27 Q&A on Articles 13 & 14, MDCG 2022-11 Timely compliance, MPDG §5 Retention period (Retention of documents in event of termination of business) of DoC, TD, MPDG §6 Strategy for regulatory compliance (Classification of devices)
+12:30 p.m. - 2:30 p.m.	Purchasing: Purchasing	Nadine Helfert
+Audit Criteria
+4.1.5 General requirements
+7.4.2 Purchasing information, 7.4.3 Verification of purchased product, Annex IX 2.2 2 (e) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+7.4.1 Purchasing process, Annex IX 2.2 2 (b3) Resource management incl. management of suppliers/sub-contractors, Annex XI 6.2 2) Monitoring of QMS for design and device quality, Article 10.15 Where manufacturers have their devices designed or manufactured by another legal or natural person, Article 10.9 3 (d) Resource management incl. management of suppliers/sub-contractors, Article 29.4 Before placing a device on the market, other than a custom-made device, the manufacturer shall
+2:30 p.m. - 4:30 p.m.	CAPA handling	Nadine Helfert
+Audit Criteria
+8.5.1 General, 8.5.2 Corrective action, 8.5.3 Preventive action, Article 10.9 3 (l) CAPA system
+
+Day 2: 22-03-2023
+Location: GATT Technologies B.V., Transistorweg 5, 6534 AT Nijmegen
+Audit Criteria
+7.5.10 Customer property, Article 109 Confidentiality, Article 110 Data protection
+6.3 Infrastructure
+7.5.11 Preservation of product
+7.5.8 Identification, 8.2.4 Internal audit, 8.3.4 Rework, Annex IX 2.2 2 (b2) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+7.5.9.1 General, 7.5.9.2 Particular requirements for implantable medical devices
+
+Audit Criteria
+7.5.2 Cleanliness of product
+6.4.1 Work environment, 6.4.2 Contamination control
+7.5.1 Control of production and service provision, Annex IX 2.2 2 (d) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+
+11:00 a.m. - 1:00 p.m.	PSC: Manufacturing, sterilization and hygiene 	Nadine Helfert
+(sterilization module)
+Audit Criteria
+6.2 Human resources
+6.3 Infrastructure, 6.4.1 Work environment, 6.4.2 Contamination control, 7.1 Planning of product realization, 
+7.5.1 Control of production and service provision, 7.5.5 Particular requirements for sterile medical devices, 
+7.5.7 Particular requirements for validation of processes for sterilization and sterile barrier systems, Annex IX 2.2 2 (d) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+7.5.5 Particular requirements for sterile medical devices, 7.5.7 Particular requirements for validation of processes for sterilization and sterile barrier systems, Annex IX 2.2 2 (d) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+
+Audit Criteria
+4.1.1 General requirements, 4.2.3 Medical device file, Annex I 23 Information supplied with device incl. IFU in official union language(s), Annex II TECHNICAL DOCUMENTATION, Annex III TECHNICAL DOCUMENTATION ON POST-MARKET SURVEILLANCE, Annex IX 2.1 1 2 Devices covered by QMS, Annex IX 2.2 1 S1 Ensure compliance with applicable regulatory scheme & respective annex, Annex IX 2.2 2 (c6) Information supplied with device incl. IFU in official union language(s), Annex XI 6.1 ① Devices covered by QMS/Clinical evaluation, Annex XI 6.2 S1 Ensure compliance with applicable regulatory scheme & respective annex, Annex XIII PROCEDURE FOR CUSTOM-MADE DEVICES, Article 10.1 Ensure compliance with applicable regulatory scheme & respective annex, Article 10.11 Information supplied with device incl. IFU in official union language(s), Article 10.4 Prepare and maintain Technical Documentation, Article 10.5 Custom made devices, Article 10.6 Draw up EU declaration of conformity, Article 10.7 UDI system and registration of devices and economical operators, Article 10.9 (h) UDI system and registration of devices and economical operators, Article 19 EU declaration of conformity, Article 20 CE marking of conformity, Article 27 Unique Device Identification system, Article 29 Registration of devices, Article 31 Registration of manufacturers, authorised representatives and importers, Article 33 European database on medical devices, Article 7 Claims, MDCG 2018-1 BUDI and changes UDI-DI, MDCG 
+2020-15 EUDAMED actor registration, MDCG 2021-13 Q&A EUDAMED registration other actors, MDCG 
+2021-19 UDI in QMS, MDCG 2021-3 Questions and Answers on Custom-Made Devices, MDCG 2022-7 Q&A UDI, MPDG §4(2) Notification to authority by manufacturer of Impl. Custom made Class III, MPDG §86 Registration in DMIDS
+4.1.1 General requirements
+
+2:00 p.m. - 3:30 p.m.	(PSC: calibration) Measurement devices	Alexander Spychaj
+Audit Criteria
+7.6 Control of monitoring and measuring equipment, Annex IX 2.2 2 (e) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+
+2:00 p.m. - 2:45 p.m.	PSC: Manufacturing, process control and quality 	Nadine Helfert control
+Audit Criteria
+8.3.1 General, 8.3.2 Actions in response to nonconforming product detected before delivery, 8.3.4 Rework
+8.2.6 Monitoring and measurement of product, Annex IX 2.2 2 (e) Quality management system assessment, Annex XI 6.2 2) Monitoring of QMS for design and device quality
+Day 3: 23-03-2023
+Location: GATT Technologies BV, Transistorweg 7, 6534 AT Nijmegen
+	Time	Audit Scope	Participants
+10:30 a.m. - 11:45 a.m.	Management: Resources and Training	Karan Korgaonkar
+Audit Criteria
+6.1 Provision of resources, Annex XI 6.1 ① Handling communication with stakeholders, Annex XI 6.2 2 Quality objectives/Organisational structures, role and responsibilities, Article 10a Obligation in case of interruption or discontinuation of supply of certain devices, MDCG 2019-7 Guidance Article 15 PRRC, MDCG 2024-16 
+Interruption or Discontinuation of Supply of certain devices, Q&A Obligation to inform, MPDG §83 Organisational structures, role and responsibilities (MP consultant)
+6.2 Human resources
+Version History
+

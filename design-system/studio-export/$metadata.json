@@ -1,0 +1,11 @@
+{
+	"tokenSetOrder": [
+		"Core/dark",
+		"Semantic",
+		"Core/dimension",
+		"Core/light",
+		"Core/typography",
+		"devextreme",
+		"Graph Test"
+	]
+}

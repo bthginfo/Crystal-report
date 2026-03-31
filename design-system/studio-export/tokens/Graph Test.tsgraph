@@ -1,0 +1,3182 @@
+{
+	"edges": [
+		{
+			"id": "9910fcec-2c5e-4773-83be-ef34c8f00380",
+			"source": "1f0e4939-461b-4e8a-af43-c6c7c5fff867",
+			"target": "bb8efe2d-1fc2-489d-8b70-54fb4521b537",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "b760bc39-33d0-48e6-b3d1-8e51bb39ee09",
+			"source": "e2bcbbf0-8ca2-4a0b-90b7-910498ca715c",
+			"target": "1f0e4939-461b-4e8a-af43-c6c7c5fff867",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "f0784b4c-d5c4-4188-8d92-839fada93983",
+			"source": "8fd998b4-436c-4920-9447-e72b33eeb98f",
+			"target": "1f0e4939-461b-4e8a-af43-c6c7c5fff867",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "1bda69d1-dd25-4a80-abc4-f7b7e232576b",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "42a1a4fd-dfc6-4f4a-afc0-86825f31ab7f",
+			"sourceHandle": "Brand Blue",
+			"targetHandle": "color"
+		},
+		{
+			"id": "7ccceb41-4830-44a8-95aa-b6acbbe7c264",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "6c8ea772-da9e-4b3c-85fd-6b9423a0bd11",
+			"sourceHandle": "Vivid Green",
+			"targetHandle": "color"
+		},
+		{
+			"id": "86a0c2c4-f8b1-4a6d-81e1-63452cbd98d1",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "715c0ba9-954f-4966-bfd0-88b120fd406f",
+			"sourceHandle": "Brand Warm Orange",
+			"targetHandle": "color"
+		},
+		{
+			"id": "9b17d291-57c5-414f-bb3e-3ccc73e34df3",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "08780f98-77db-424a-b35d-3ff1d285d4fe",
+			"sourceHandle": "Brand Warm Gray",
+			"targetHandle": "color"
+		},
+		{
+			"id": "857863b5-8a55-48eb-86fc-c6ee791f1032",
+			"source": "42a1a4fd-dfc6-4f4a-afc0-86825f31ab7f",
+			"target": "8762b1c3-a423-4ca7-aad9-74d3d5399c57",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "20fb37e0-fc2e-4113-b28f-1878f42a4c0b",
+			"source": "6c8ea772-da9e-4b3c-85fd-6b9423a0bd11",
+			"target": "371ca1da-253d-4533-834f-38e87cd6289a",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "affb1940-8a1b-47ee-801b-bce29e9a263d",
+			"source": "715c0ba9-954f-4966-bfd0-88b120fd406f",
+			"target": "be15f352-d58b-4589-98d8-04cca87d8a3a",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "55209a76-e6e6-4624-8155-d43ac36aaa55",
+			"source": "08780f98-77db-424a-b35d-3ff1d285d4fe",
+			"target": "2f9d85d5-6c74-49c9-ab69-d4ebaf685671",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "cb07f563-248f-4bf9-80e9-0aabcd417e87",
+			"source": "4287da22-f589-4031-8560-c9c73abc309f",
+			"target": "42a1a4fd-dfc6-4f4a-afc0-86825f31ab7f",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "c04dd619-d9c6-488f-8a73-f1dddf58c0e2",
+			"source": "60745c47-62ab-465d-9285-b55d961042ec",
+			"target": "42a1a4fd-dfc6-4f4a-afc0-86825f31ab7f",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "6725fb73-a14c-4369-a55f-4b72c5e4a3ca",
+			"source": "ef5e5e8d-1dff-42b1-be33-29e5d333df88",
+			"target": "6c8ea772-da9e-4b3c-85fd-6b9423a0bd11",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "d1bdad04-1391-46ce-9be9-c7f43203a76c",
+			"source": "eeb1c7b0-1234-48a5-bb78-652001eae4d2",
+			"target": "6c8ea772-da9e-4b3c-85fd-6b9423a0bd11",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "0b830963-ee2c-4aa0-9b12-3d0a95501da3",
+			"source": "c5d02110-5fcf-4fae-88b9-b7639d0940b8",
+			"target": "715c0ba9-954f-4966-bfd0-88b120fd406f",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "98f99ab0-db50-4648-afcd-ad3ad5cb8a62",
+			"source": "3d101eda-8936-4e31-8729-9a9633c72774",
+			"target": "715c0ba9-954f-4966-bfd0-88b120fd406f",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "77fb58b7-8250-47f3-a60c-2ab85c86262e",
+			"source": "4a7546b0-9a4d-438c-902a-8d953b5b4a70",
+			"target": "08780f98-77db-424a-b35d-3ff1d285d4fe",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "5da6259a-994e-487b-b05e-2a7470cc0b8a",
+			"source": "c3d1d3c2-b795-49ac-86fc-7902df818dcf",
+			"target": "08780f98-77db-424a-b35d-3ff1d285d4fe",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "0b23be43-a91f-4144-b9dd-488038bbb78e",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "9c01dee8-6bd8-4697-a61a-1aed4e64d11c",
+			"sourceHandle": "Dark Brand Blue",
+			"targetHandle": "color"
+		},
+		{
+			"id": "c12d3acf-fc6f-4b83-82bf-01eb085a5271",
+			"source": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"target": "1f0e4939-461b-4e8a-af43-c6c7c5fff867",
+			"sourceHandle": "Dark Brand Blue",
+			"targetHandle": "color"
+		},
+		{
+			"id": "a23b7f6f-71f0-4a49-8ecf-5d73ad7c0d4e",
+			"source": "9c01dee8-6bd8-4697-a61a-1aed4e64d11c",
+			"target": "e0a16ab6-b54e-4d7e-9f0a-64c6a8dae242",
+			"sourceHandle": "value",
+			"targetHandle": "color"
+		},
+		{
+			"id": "2ba60ddc-db9b-470a-bcd9-b893ee6923f2",
+			"source": "e0a16ab6-b54e-4d7e-9f0a-64c6a8dae242",
+			"target": "b5f6e925-e7b3-4f16-a244-38d9c57ecf66",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "2ea8f7e1-c5c4-4130-981b-350b6903f021",
+			"source": "2f2bdf16-6318-4602-856f-10900427de6a",
+			"target": "e0a16ab6-b54e-4d7e-9f0a-64c6a8dae242",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "2bd562b8-e799-4ab9-85c0-78c512c0371d",
+			"source": "069c20f4-98a6-40ca-bca4-605944c50bcb",
+			"target": "e0a16ab6-b54e-4d7e-9f0a-64c6a8dae242",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "1f1fdf3c-dbf7-474c-9a56-02d46d659837",
+			"source": "01530302-c832-4e2f-9f82-cde18ad13932",
+			"target": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"sourceHandle": "value",
+			"targetHandle": "stepsUp"
+		},
+		{
+			"id": "67be9c81-8483-42da-811f-49a125943651",
+			"source": "363a7ead-db91-441f-a5f0-e60fa0c0e39f",
+			"target": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"sourceHandle": "value",
+			"targetHandle": "stepsDown"
+		},
+		{
+			"id": "a20dbfec-7565-49bb-9833-701c097eece2",
+			"source": "038175cc-c84d-4ca4-97f2-2fe75c631943",
+			"target": "6d01725e-8677-4daf-9818-bb159a4a427e",
+			"sourceHandle": "value",
+			"targetHandle": "tokens"
+		},
+		{
+			"id": "cba8436d-efe6-428f-ad44-7af6fcb198bd",
+			"source": "feba673e-e36f-4a93-a86e-4134527592da",
+			"target": "6d01725e-8677-4daf-9818-bb159a4a427e",
+			"sourceHandle": "value",
+			"targetHandle": "name"
+		},
+		{
+			"id": "dcdad1e9-f36f-49d5-a223-15e7ec9eeb6c",
+			"source": "6d01725e-8677-4daf-9818-bb159a4a427e",
+			"target": "b7343fa0-7f4f-4b60-9810-84ee2b809f62",
+			"sourceHandle": "tokens",
+			"targetHandle": "tokens"
+		},
+		{
+			"id": "cc990cd6-1668-4cab-b7f9-1d13ce2419e6",
+			"source": "b7343fa0-7f4f-4b60-9810-84ee2b809f62",
+			"target": "a181b7ca-b5a7-44c2-9f45-d4ee53e84a8c",
+			"sourceHandle": "tokenSet",
+			"targetHandle": "tokenSet"
+		},
+		{
+			"id": "b5a55da9-de68-4afc-9555-56daf866dd66",
+			"source": "95dd2d9a-4c5e-4565-a216-273436b9b4e5",
+			"target": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"sourceHandle": "value",
+			"targetHandle": "color"
+		},
+		{
+			"id": "2426be21-584b-41f1-86e9-844cb53985b0",
+			"source": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"target": "7fbb4efa-6e27-465e-812f-2458a1fb5c83",
+			"sourceHandle": "value",
+			"targetHandle": "value"
+		},
+		{
+			"id": "983e295a-9b4b-4d24-a601-7bf4d3a38d8f",
+			"source": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"target": "038175cc-c84d-4ca4-97f2-2fe75c631943",
+			"sourceHandle": "value",
+			"targetHandle": "array"
+		}
+	],
+	"nodes": [
+		{
+			"id": "206c8a02-dbdf-48d9-b439-30d5b8fa0c2e",
+			"type": "studio.tokens.generic.input",
+			"inputs": [
+				{
+					"name": "Dark Brand Blue",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							0.04313725490196078,
+							0.1450980392156863,
+							0.2313725490196079
+						]
+					},
+					"visible": false,
+					"annotations": {
+						"ui.deletable": true
+					}
+				},
+				{
+					"name": "Brand Blue",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							0,
+							0.2745098039215687,
+							0.6784313725490196
+						]
+					},
+					"visible": false,
+					"annotations": {
+						"ui.deletable": true
+					}
+				},
+				{
+					"name": "Vivid Green",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							0.00784313725490196,
+							0.9254901960784314,
+							0.6509803921568628
+						]
+					},
+					"visible": false,
+					"annotations": {
+						"ui.deletable": true
+					}
+				},
+				{
+					"name": "Brand Warm Orange",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							1,
+							0.4666666666666667,
+							0.2941176470588235
+						]
+					},
+					"visible": false,
+					"annotations": {
+						"ui.deletable": true
+					}
+				},
+				{
+					"name": "Brand Warm Gray",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							0.9490196078431372,
+							0.9372549019607843,
+							0.9294117647058824
+						]
+					},
+					"visible": false,
+					"annotations": {
+						"ui.deletable": true
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": -489.3379100398733,
+				"ui.position.y": 510.4692067240522,
+				"engine.singleton": true,
+				"engine.dynamicInputs": true
+			}
+		},
+		{
+			"id": "e2bcbbf0-8ca2-4a0b-90b7-910498ca715c",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "8"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -475.1689359158017,
+				"ui.position.y": -432.5512802081812
+			}
+		},
+		{
+			"id": "8fd998b4-436c-4920-9447-e72b33eeb98f",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "1"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -475.7707856325829,
+				"ui.position.y": -317.2940440426595
+			}
+		},
+		{
+			"id": "bb8efe2d-1fc2-489d-8b70-54fb4521b537",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1329.378282333334,
+				"ui.position.y": -234.4740516666665
+			}
+		},
+		{
+			"id": "1f0e4939-461b-4e8a-af43-c6c7c5fff867",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 290.055925,
+				"ui.position.y": -34.42775833333332
+			}
+		},
+		{
+			"id": "42a1a4fd-dfc6-4f4a-afc0-86825f31ab7f",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 289.136986666666,
+				"ui.position.y": 207.8942573567705
+			}
+		},
+		{
+			"id": "6c8ea772-da9e-4b3c-85fd-6b9423a0bd11",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 287.8366666666666,
+				"ui.position.y": 431.8430573567704
+			}
+		},
+		{
+			"id": "715c0ba9-954f-4966-bfd0-88b120fd406f",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 293.3662666666665,
+				"ui.position.y": 677.9102573567707
+			}
+		},
+		{
+			"id": "08780f98-77db-424a-b35d-3ff1d285d4fe",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 297.068281350801,
+				"ui.position.y": 924.3925048078013
+			}
+		},
+		{
+			"id": "8762b1c3-a423-4ca7-aad9-74d3d5399c57",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1613.054122666666,
+				"ui.position.y": -238.4394677935724
+			}
+		},
+		{
+			"id": "371ca1da-253d-4533-834f-38e87cd6289a",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1898.335293516322,
+				"ui.position.y": -239.5607841770203
+			}
+		},
+		{
+			"id": "be15f352-d58b-4589-98d8-04cca87d8a3a",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 2184.372394666666,
+				"ui.position.y": -241.0474866432289
+			}
+		},
+		{
+			"id": "2f9d85d5-6c74-49c9-ab69-d4ebaf685671",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 2475.008170666665,
+				"ui.position.y": -243.0381426432289
+			}
+		},
+		{
+			"id": "4287da22-f589-4031-8560-c9c73abc309f",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "5"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -472.8011514410173,
+				"ui.position.y": -144.3491287093744
+			}
+		},
+		{
+			"id": "60745c47-62ab-465d-9285-b55d961042ec",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "4"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -470.8104954410173,
+				"ui.position.y": -27.038992160405
+			}
+		},
+		{
+			"id": "ef5e5e8d-1dff-42b1-be33-29e5d333df88",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "5"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -474.3130120423913,
+				"ui.position.y": 162.1236441099258
+			}
+		},
+		{
+			"id": "eeb1c7b0-1234-48a5-bb78-652001eae4d2",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "4"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -472.322356042391,
+				"ui.position.y": 281.1976180271649
+			}
+		},
+		{
+			"id": "c5d02110-5fcf-4fae-88b9-b7639d0940b8",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "5"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -481.3754071209672,
+				"ui.position.y": 925.7544596740731
+			}
+		},
+		{
+			"id": "3d101eda-8936-4e31-8729-9a9633c72774",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "4"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -479.8635465195932,
+				"ui.position.y": 1051.531173756834
+			}
+		},
+		{
+			"id": "4a7546b0-9a4d-438c-902a-8d953b5b4a70",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "3"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -479.6742673829902,
+				"ui.position.y": 1219.943463961019
+			}
+		},
+		{
+			"id": "c3d1d3c2-b795-49ac-86fc-7902df818dcf",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "6"
+				}
+			],
+			"annotations": {
+				"ui.position.x": -479.3088813002296,
+				"ui.position.y": 1349.880389594123
+			}
+		},
+		{
+			"id": "9c01dee8-6bd8-4697-a61a-1aed4e64d11c",
+			"type": "studio.tokens.accessibility.colorBlindness",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "type",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"enum": [
+							"tritanopia",
+							"tritanomaly",
+							"deuteranopia",
+							"deuteranomaly",
+							"protanopia",
+							"protanomaly",
+							"achromatopsia",
+							"achromatomaly"
+						],
+						"type": "string",
+						"title": "Color Blindness Type",
+						"default": "protanopia"
+					},
+					"value": "protanopia"
+				}
+			],
+			"annotations": {
+				"ui.position.x": 299.1656354419655,
+				"ui.position.y": -219.4624243411444
+			}
+		},
+		{
+			"id": "e0a16ab6-b54e-4d7e-9f0a-64c6a8dae242",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 676.9792648437501,
+				"ui.position.y": -364.1308833333333
+			}
+		},
+		{
+			"id": "b5f6e925-e7b3-4f16-a244-38d9c57ecf66",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1094.97926484375,
+				"ui.position.y": -226.1308833333333
+			}
+		},
+		{
+			"id": "2f2bdf16-6318-4602-856f-10900427de6a",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "6"
+				}
+			],
+			"annotations": {
+				"ui.position.x": 254.9792648437501,
+				"ui.position.y": -692.362133333333
+			}
+		},
+		{
+			"id": "069c20f4-98a6-40ca-bca4-605944c50bcb",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "3"
+				}
+			],
+			"annotations": {
+				"ui.position.x": 258.9792648437501,
+				"ui.position.y": -483.8746333333332
+			}
+		},
+		{
+			"id": "95dd2d9a-4c5e-4565-a216-273436b9b4e5",
+			"type": "studio.tokens.generic.constant",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/any.json",
+						"title": "Any"
+					},
+					"value": {
+						"alpha": 1,
+						"space": "srgb",
+						"channels": [
+							0.04313725490196078,
+							0.1450980392156863,
+							0.2313725490196079
+						]
+					},
+					"annotations": {
+						"ui.resetable": true
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 482.9514106589163,
+				"ui.position.y": 1601.913612076794
+			}
+		},
+		{
+			"id": "bf46d5c4-f982-41b9-90ea-dea8f6ce1a5c",
+			"type": "studio.tokens.color.scale",
+			"inputs": [
+				{
+					"name": "color",
+					"type": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								1,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/color.json",
+						"type": "object",
+						"title": "Color",
+						"default": {
+							"space": "srgb",
+							"channels": [
+								0,
+								0,
+								0
+							]
+						},
+						"required": [
+							"channels",
+							"space"
+						],
+						"properties": {
+							"alpha": {
+								"$id": "https://schemas.tokens.studio/number.json",
+								"type": "number",
+								"title": "Number"
+							},
+							"space": {
+								"$id": "https://schemas.tokens.studio/string.json",
+								"type": "string",
+								"title": "String"
+							},
+							"channels": {
+								"type": "array",
+								"items": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "stepsUp",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				},
+				{
+					"name": "stepsDown",
+					"type": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number",
+						"default": 5
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/number.json",
+						"type": "number",
+						"title": "Number"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 917.4937069615617,
+				"ui.position.y": 1577.135267152422
+			}
+		},
+		{
+			"id": "01530302-c832-4e2f-9f82-cde18ad13932",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "8"
+				}
+			],
+			"annotations": {
+				"ui.position.x": 608.0379626623019,
+				"ui.position.y": 1763.533648425108
+			}
+		},
+		{
+			"id": "363a7ead-db91-441f-a5f0-e60fa0c0e39f",
+			"type": "studio.tokens.typing.parseNumber",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"value": "1"
+				}
+			],
+			"annotations": {
+				"ui.position.x": 609.0747980061287,
+				"ui.position.y": 1893.62852887716
+			}
+		},
+		{
+			"id": "6d01725e-8677-4daf-9818-bb159a4a427e",
+			"type": "studio.tokens.design.array.group",
+			"inputs": [
+				{
+					"name": "name",
+					"type": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					}
+				},
+				{
+					"name": "tokens",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/token.json",
+							"type": "object",
+							"title": "Token",
+							"properties": {
+								"name": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"value": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/token.json",
+							"type": "object",
+							"title": "Token",
+							"properties": {
+								"name": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"value": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							}
+						},
+						"title": "Token"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1680.741174272889,
+				"ui.position.y": 1495.187380366435
+			}
+		},
+		{
+			"id": "feba673e-e36f-4a93-a86e-4134527592da",
+			"type": "studio.tokens.generic.constant",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"$id": "https://schemas.tokens.studio/any.json",
+						"title": "Any"
+					},
+					"value": "color",
+					"annotations": {
+						"ui.resetable": true
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/string.json",
+						"type": "string",
+						"title": "String"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1328.701671955118,
+				"ui.position.y": 1417.59522537638
+			}
+		},
+		{
+			"id": "b7343fa0-7f4f-4b60-9810-84ee2b809f62",
+			"type": "studio.tokens.design.arrayToSet",
+			"inputs": [
+				{
+					"name": "tokens",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/token.json",
+							"type": "object",
+							"title": "Token",
+							"properties": {
+								"name": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"value": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/token.json",
+							"type": "object",
+							"title": "Token",
+							"properties": {
+								"name": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"value": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1996.930323114511,
+				"ui.position.y": 1523.089266730082
+			}
+		},
+		{
+			"id": "a181b7ca-b5a7-44c2-9f45-d4ee53e84a8c",
+			"type": "studio.tokens.generic.output",
+			"inputs": [
+				{
+					"name": "tokenSet",
+					"type": {
+						"$id": "https://schemas.tokens.studio/any.json",
+						"title": "Any"
+					},
+					"annotations": {
+						"ui.deletable": true
+					},
+					"dynamicType": {
+						"$id": "https://schemas.tokens.studio/tokenSet.json",
+						"type": "object",
+						"title": "Token Set"
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 2295.94028271864,
+				"ui.position.y": 1539.474092731095,
+				"engine.singleton": true,
+				"engine.dynamicInputs": true
+			}
+		},
+		{
+			"id": "7fbb4efa-6e27-465e-812f-2458a1fb5c83",
+			"type": "studio.tokens.preview.colorScale",
+			"inputs": [
+				{
+					"name": "value",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"annotations": {
+				"ui.position.x": 1321.982275891716,
+				"ui.position.y": 1760.277464612244
+			}
+		},
+		{
+			"id": "038175cc-c84d-4ca4-97f2-2fe75c631943",
+			"type": "tokens.studio.array.map",
+			"inputs": [
+				{
+					"name": "array",
+					"type": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/any.json",
+							"title": "Any"
+						},
+						"title": "Any[]",
+						"default": []
+					},
+					"annotations": {
+						"ui.editable": false
+					},
+					"dynamicType": {
+						"type": "array",
+						"items": {
+							"$id": "https://schemas.tokens.studio/color.json",
+							"type": "object",
+							"title": "Color",
+							"default": {
+								"space": "srgb",
+								"channels": [
+									0,
+									0,
+									0
+								]
+							},
+							"required": [
+								"channels",
+								"space"
+							],
+							"properties": {
+								"alpha": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"space": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"channels": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/number.json",
+										"type": "number",
+										"title": "Number"
+									}
+								}
+							}
+						}
+					}
+				}
+			],
+			"innergraph": {
+				"edges": [
+					{
+						"id": "83456d2e-710d-4662-9b79-7945f5bede8b",
+						"source": "2ffbf918-372b-43dc-b954-32601e6058b1",
+						"target": "b6b0c21b-c057-48fd-ac0f-503c74fdde35",
+						"sourceHandle": "value",
+						"targetHandle": "color"
+					},
+					{
+						"id": "cffaaef2-04aa-4066-9d5c-5e5117d1ac66",
+						"source": "2ffbf918-372b-43dc-b954-32601e6058b1",
+						"target": "4d8a999f-1099-4cc0-b555-e3ddda5f7e6b",
+						"sourceHandle": "index",
+						"targetHandle": "index"
+					},
+					{
+						"id": "43c59cc9-d39a-4e68-a5f5-26d4439d663c",
+						"source": "b6b0c21b-c057-48fd-ac0f-503c74fdde35",
+						"target": "61a89c0c-557b-4a65-845c-9278a0ec6bc8",
+						"sourceHandle": "value",
+						"targetHandle": "value"
+					},
+					{
+						"id": "36b3aa5e-c21b-484c-93fc-325ab88bfa25",
+						"source": "4d8a999f-1099-4cc0-b555-e3ddda5f7e6b",
+						"target": "61a89c0c-557b-4a65-845c-9278a0ec6bc8",
+						"sourceHandle": "value",
+						"targetHandle": "name"
+					},
+					{
+						"id": "e6ffb8ec-a3cb-4600-89d2-6a657fe30eb9",
+						"source": "61a89c0c-557b-4a65-845c-9278a0ec6bc8",
+						"target": "d327341f-de64-4488-b7f8-779a73571a4b",
+						"sourceHandle": "token",
+						"targetHandle": "value"
+					}
+				],
+				"nodes": [
+					{
+						"id": "2ffbf918-372b-43dc-b954-32601e6058b1",
+						"type": "studio.tokens.generic.input",
+						"inputs": [
+							{
+								"name": "value",
+								"type": {
+									"$id": "https://schemas.tokens.studio/any.json",
+									"title": "Any"
+								},
+								"value": {
+									"alpha": 1,
+									"space": "hsl",
+									"channels": [
+										207.5,
+										34.28571428571428,
+										6.862745098039218
+									]
+								},
+								"visible": false,
+								"annotations": {
+									"ui.hidden": true,
+									"ui.editable": false,
+									"engine.hideFromParentSubgraph": true
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/color.json",
+									"type": "object",
+									"title": "Color",
+									"default": {
+										"space": "srgb",
+										"channels": [
+											0,
+											0,
+											0
+										]
+									},
+									"required": [
+										"channels",
+										"space"
+									],
+									"properties": {
+										"alpha": {
+											"$id": "https://schemas.tokens.studio/number.json",
+											"type": "number",
+											"title": "Number"
+										},
+										"space": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										},
+										"channels": {
+											"type": "array",
+											"items": {
+												"$id": "https://schemas.tokens.studio/number.json",
+												"type": "number",
+												"title": "Number"
+											}
+										}
+									}
+								}
+							},
+							{
+								"name": "index",
+								"type": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"value": 9,
+								"visible": false,
+								"annotations": {
+									"ui.editable": false,
+									"engine.hideFromParentSubgraph": true
+								}
+							},
+							{
+								"name": "length",
+								"type": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								},
+								"value": 10,
+								"visible": false,
+								"annotations": {
+									"ui.editable": false,
+									"engine.hideFromParentSubgraph": true
+								}
+							}
+						],
+						"annotations": {
+							"ui.position.x": -50.02133333333336,
+							"ui.position.y": -53.96266666666662,
+							"engine.deletable": false,
+							"engine.singleton": true,
+							"engine.dynamicInputs": true
+						}
+					},
+					{
+						"id": "d327341f-de64-4488-b7f8-779a73571a4b",
+						"type": "studio.tokens.generic.output",
+						"inputs": [
+							{
+								"name": "value",
+								"type": {
+									"type": "array",
+									"items": {
+										"$id": "https://schemas.tokens.studio/any.json",
+										"title": "Any"
+									}
+								},
+								"annotations": {
+									"ui.editable": false
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/token.json",
+									"type": "object",
+									"title": "Token",
+									"properties": {
+										"name": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										},
+										"type": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										},
+										"value": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										}
+									}
+								}
+							}
+						],
+						"annotations": {
+							"ui.position.x": 1188.15792321295,
+							"ui.position.y": 158.2609520210988,
+							"engine.deletable": false,
+							"engine.singleton": true
+						}
+					},
+					{
+						"id": "b6b0c21b-c057-48fd-ac0f-503c74fdde35",
+						"type": "studio.tokens.color.colorToString",
+						"inputs": [
+							{
+								"name": "color",
+								"type": {
+									"$id": "https://schemas.tokens.studio/color.json",
+									"type": "object",
+									"title": "Color",
+									"default": {
+										"space": "srgb",
+										"channels": [
+											0,
+											0,
+											0
+										]
+									},
+									"required": [
+										"channels",
+										"space"
+									],
+									"properties": {
+										"alpha": {
+											"$id": "https://schemas.tokens.studio/number.json",
+											"type": "number",
+											"title": "Number"
+										},
+										"space": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										},
+										"channels": {
+											"type": "array",
+											"items": {
+												"$id": "https://schemas.tokens.studio/number.json",
+												"type": "number",
+												"title": "Number"
+											}
+										}
+									}
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/color.json",
+									"type": "object",
+									"title": "Color",
+									"default": {
+										"space": "srgb",
+										"channels": [
+											0,
+											0,
+											0
+										]
+									},
+									"required": [
+										"channels",
+										"space"
+									],
+									"properties": {
+										"alpha": {
+											"$id": "https://schemas.tokens.studio/number.json",
+											"type": "number",
+											"title": "Number"
+										},
+										"space": {
+											"$id": "https://schemas.tokens.studio/string.json",
+											"type": "string",
+											"title": "String"
+										},
+										"channels": {
+											"type": "array",
+											"items": {
+												"$id": "https://schemas.tokens.studio/number.json",
+												"type": "number",
+												"title": "Number"
+											}
+										}
+									}
+								}
+							},
+							{
+								"name": "space",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"enum": [
+										"hex",
+										"a98rgb",
+										"a98rgb-linear",
+										"acescc",
+										"acescg",
+										"cam16-jmh",
+										"hct",
+										"hpluv",
+										"hsl",
+										"hsluv",
+										"hsv",
+										"hwb",
+										"ictcp",
+										"jzczhz",
+										"jzazbz",
+										"lch",
+										"lchuv",
+										"lab",
+										"lab-d65",
+										"luv",
+										"oklch",
+										"oklab",
+										"p3",
+										"p3-linear",
+										"prophoto",
+										"prophoto-linear",
+										"rec2020",
+										"rec2020-linear",
+										"rec2100hlg",
+										"rec2100pq",
+										"xyz-abs-d65",
+										"xyz-d50",
+										"xyz-d65",
+										"xyz",
+										"srgb",
+										"srgb-linear"
+									],
+									"type": "string",
+									"title": "String",
+									"default": "hex"
+								},
+								"value": "hex"
+							}
+						],
+						"annotations": {
+							"ui.position.x": 215.927708658854,
+							"ui.position.y": 392.5951164143881
+						}
+					},
+					{
+						"id": "4d8a999f-1099-4cc0-b555-e3ddda5f7e6b",
+						"type": "studio.tokens.naming.numeric",
+						"inputs": [
+							{
+								"name": "index",
+								"type": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number",
+									"default": 0,
+									"description": "index number for the scale"
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number"
+								}
+							},
+							{
+								"name": "multiplier",
+								"type": {
+									"$id": "https://schemas.tokens.studio/number.json",
+									"type": "number",
+									"title": "Number",
+									"default": 1,
+									"description": "Multiplier for the index (e.g., 100 for ramps)"
+								},
+								"value": 100,
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							},
+							{
+								"name": "prefix",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String",
+									"default": "",
+									"description": "Optional prefix for the output"
+								},
+								"value": "blue.",
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							},
+							{
+								"name": "suffix",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String",
+									"default": "",
+									"description": "Optional suffix for the output"
+								},
+								"value": ""
+							}
+						],
+						"annotations": {
+							"ui.position.x": 487.2610419921875,
+							"ui.position.y": 102.675116414388
+						}
+					},
+					{
+						"id": "61a89c0c-557b-4a65-845c-9278a0ec6bc8",
+						"type": "studio.tokens.design.create",
+						"inputs": [
+							{
+								"name": "name",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							},
+							{
+								"name": "type",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"enum": [
+										"asset",
+										"boolean",
+										"borderRadius",
+										"borderWidth",
+										"color",
+										"dimension",
+										"fontFamilies",
+										"fontSizes",
+										"fontWeights",
+										"letterSpacing",
+										"lineHeights",
+										"number",
+										"opacity",
+										"other",
+										"paragraphIndent",
+										"paragraphSpacing",
+										"sizing",
+										"spacing",
+										"strokeStyle",
+										"text",
+										"textCase",
+										"textDecoration"
+									],
+									"type": "string",
+									"title": "String"
+								},
+								"value": "color"
+							},
+							{
+								"name": "value",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								},
+								"dynamicType": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							},
+							{
+								"name": "description",
+								"type": {
+									"$id": "https://schemas.tokens.studio/string.json",
+									"type": "string",
+									"title": "String"
+								}
+							},
+							{
+								"name": "$extensions",
+								"type": {
+									"$id": "https://schemas.tokens.studio/object.json",
+									"type": "object",
+									"title": "Object",
+									"default": null
+								},
+								"value": null
+							}
+						],
+						"annotations": {
+							"ui.position.x": 918.8290419921879,
+							"ui.position.y": 317.5444497477214
+						}
+					}
+				],
+				"annotations": {
+					"engine.id": "b0385cb9-c2a0-4160-8a84-dd7c131ae484",
+					"ui.viewports": [
+						null,
+						null,
+						null,
+						null,
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"engine.version": "0.12.0"
+				}
+			},
+			"annotations": {
+				"ui.position.x": 1327.763811486288,
+				"ui.position.y": 1556.469402180608
+			}
+		}
+	],
+	"annotations": {
+		"engine.id": "ebbf63ac-91f8-43fa-a08a-e4a35c3bed04",
+		"ui.viewports": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		],
+		"engine.version": "0.12.0"
+	}
+}

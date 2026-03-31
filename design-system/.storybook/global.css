@@ -1,0 +1,4 @@
+html,
+body {
+    font-family: var(--ts-semantic-typography-font-family-default);
+}

@@ -1,0 +1,283 @@
+CATEGORIZATION OF FINDINGS
+For the evaluation of the audit findings the following definitions apply:
+Note: Improvement Potential (I) is not allowed
+Major Nonconformity:	Non-fulfillment of a requirement that affects the capability of the management system to achieve the intended results.
+Nonconformities could be classified as major in the following circumstances: - If there is a significant doubt that effective process control is in place, or that products or services will meet specified requirements.
+- A number of minor nonconformities associated with the same requirement or issue could demonstrate a systemic failure and thus constitute a major nonconformity.
+Minor Nonconformity:	Non-fulfillment of a requirement that does not affect the capability of the management system to achieve the intended results.
+Grade 1 - 5:	Grade of each finding according to Global Harmonization Task Force document 
+Mandatory grades for MDSAP and 	GHTF/SG3/N19:2012 “Quality management system - Medical devices - 
+J-QMS	Nonconformity Grading System for Regulatory Purposes and Information 
+Exchange” and MDSAP AU P0037 “Guidelines on the use of GHTF/SG3/N19:2012 for MDSAP purposes”.
+CLIENT RESPONSE: DEADLINES* AND REQUIRED ACTIONS** (IN CALENDAR DAYS)
+All schemes
+MDSAP Program
+Note: For multi-schemes, the stricter timelines apply.
+* Note that due dates presented may be adjusted down (but not up) by the audit team
+** Note: Guidance on corrective action and preventive action and related QMS processes can be found in GHTF/SG3/N18:2010
+AUDIT FINDINGS ACKNOWLEDGEMENT
+When a nonconformity is found, a record of this should be completed even if the auditee corrects the nonconformity during the audit. In such case, a record of the auditee’s actions to resolve the issue should be described.
+This document contains all audit findings. It shall be issued, through email, immediately after the onsite audit at the closing meeting. The findings are classified as described above. Any nonconformity shall be presented during the closing meeting in such a manner that they are understood by the client and the time frame for responding shall be agreed. This is acknowledged by the client by signing the “RECEIPT OF AUDIT”. (Note: “Understood” does not necessarily mean that the nonconformity has been accepted by the client.) Failure to respond adequately by the due date may result in suspension or withdrawal of certification.
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000735
+Description of nonconformity:	Requirement:
+Strategy for regulatory compliance MDR - Article 10_9a:
+The quality management system shall address at least the following aspects:
+(a) a strategy for regulatory compliance, including compliance with conformity assessment procedures and procedures for management of modifications to the devices covered by the system.
+MDR - Annex IX_2.2 (c):
+[…] shall be documented in a systematic and orderly manner in the form of a quality manual and written policies and procedures such as quality programs, quality plans and quality records.
+(c) […] Those procedures and techniques shall specifically cover:
+– the strategy for regulatory compliance, including processes for identification of relevant legal requirements, qualification, classification, handling of equivalence, choice of and compliance with conformity assessment procedures,
+Description of Non-Conformity:
+Regulatory Strategy Plan Template F-QA-027 is currently not used as required by SOP-QA-016 Regulatory Strategy and Medical Device File, Version 4.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Minor
+Due date to submit evidence of implementation:
+Status of the nonconformity:	Pending implementation
+Supporting objective evidence:	Supporting Objective Evidence:
+F-QA-027 Regulatory Strategy Plan Template
+SOP-QA-016 Regulatory Strategy and Medical Device File, Version 4.
+Identification of the Associated Product (if applicable):
+N/A
+Context and significance for MDSAP:
+CLIENT RESPONSE
+
+REVIEW OF CLIENT RESPONSE
+
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000736
+Description of nonconformity:	Requirement:
+EN ISO 13485:2016: 8.5.2 Corrective Action
+[…] Any necessary corrective actions shall be taken without undue delay. Corrective actions
+shall be proportionate to the effects of the nonconformities encountered
+MDR - Article 10.9 ¶3 l
+[…] management of corrective and preventive actions and 
+verification of their effectiveness; Description of Non-Conformity:
+No clear determination that any necessary corrective actions shall be taken without undue delay as well as a clear observance of due dates.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Minor
+Due date to submit evidence of implementation:
+Status of the nonconformity:	Pending implementation
+Supporting objective evidence:	Supporting Objective Evidence:
+SOP-QA-015 Measurement, Analysis, and Improvement 
+(CAPA) Version 3
+CAPA22006 Granulate NMR Method
+Identification of the Associated Product (if applicable) GATT-Patch Context and significance for MDSAP:
+CLIENT RESPONSE
+Root cause analysis and root cause(s):	Cause Analysis:
+The respective GATT CAPA process is described in SOP-QA-015 Measurement Analysis Improvement – CAPA, Version 3. The targeted date of corrective action implementation is set by the procedure (clause 6.4) to 90 days (monitored also as KPI). However, the verification (resp. monitoring of effectiveness) period is not considered. Because statistical data to verify effectiveness of implemented corrective actions to be gathered over a specific period, this process takes often much longer than the targeted 90 days value. Moreover, the procedure SOP-QA-015 does not limit overall / total period for closing CAPA (eg 1 year).
+Long-term CAPAs (such as CAPA22006) were reviewed and CAPA owners interviewed, together with other CAPA meeting participants.
+NCR/QA meetings take place every week; CAPA meetings are planned for every 6 weeks, but usually as a high-level meetings (with General Manager and DSCO as participants), with the aim to provide update on status all GATT QMS processes in CAPA status. These meetings are not usually focused on details and real processing of the certain CAPAs. Thus, the CAPA tasks requiring the same process approach as NCRs are not considered – resulting in ad hoc meetings and delays in completion.
+Also, effectiveness of NCR or CAPA meetings is compromised in case that too many NCRs/CAPAs are reviewed at one NCR and CAPA meeting, without appropriate focus on chosen priorities, including smaller core teams relevant for the specific NCR / CAPA.
+Sometimes, CAPAs tasks and corrective action defined broadly, not always with a reasonable limitation on scope, resulting into unrealistic timelines.
+From CAPA (as well as NCR) processing point of view, NCR/CAPA owners miss unified root cause analysis tools that would help fasten the failure investigation process. Thus, the CAPA meetings are not fully effective because of choice of participants, tools used, frequency and tasks definition. The pending completion of CAPA tasks was opened during several consecutive Management Reviews (MR8, MR9, MR10).
+Cause(s):
+Processing of CAPAs is not fully developed (including definition of final due dates), unified and necessary tools are not properly used by GATT team.
+Inadequate process
+Inadequate training
+
+Correction(s) to eliminate detected nonconformity:
+The non-conformity has been recorded (NCR23012) and investigation of the root cause of the non-conformity has 
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000737
+Description of nonconformity:	Requirement:
+EN ISO 13485:6.2 Human resources
+Personnel performing work affecting product quality shall be competent on the basis of appropriate education, training, skills, and experience.
+Description of Non-Conformity:
+Not all personnel performing work related to animal origin is required to be competent for animal origin per job 
+description. Training for animal origin related topics is not provided
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Minor
+Due date to submit evidence of implementation:
+Status of the nonconformity:	Pending implementation
+Supporting objective evidence:	Supporting Objective Evidence:
+DOC-1333; Version 3, Job Description Production Manager
+DOC-1344, Version 5 Job Description Director Quality & 
+Regulatory Affairs
+F-RM-002, Version 5, Annual Training Plan 2023
+Identification of the Associated Product (if applicable) GATT-Patch Context and significance for MDSAP:
+CLIENT RESPONSE
+
+REVIEW OF CLIENT RESPONSE
+
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000738
+Description of nonconformity:	Requirement:
+EN ISO 13485:2016:
+4.2 Documentation requirements
+4.2.1 General
+The quality management system documentation (see 4.2.4) shall include:
+documented statements of a quality policy and quality objectives;
+a quality manual;
+documented procedures and records required by this 
+International Standard;
+documents, including records, determined by the organization to be necessary to ensure the effective planning, operation, and control of its processes;
+other documentation specified by applicable regulatory requirements.
+Description of Non-Conformity:
+Not all types of documents used in the QM system are listed in the quality manual. The listing of controlled documents is additionally cited but limited to some of the processes the organization employs.
+Some of QMS key documents are from the supplier and seem not to be adequately embedded in the QMS or medical device file.
+The regulatory frameworks applied, and some content of the document are not consistently cited or unprecise.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Minor
+Due date to submit evidence of implementation:
+Status of the nonconformity:	Pending implementation
+Supporting objective evidence:	Supporting Objective Evidence:
+SOP-QA-422 version 7 GATT quality manual 12 Jan 2023.
+SOP-QA-003 V5 Management Review
+SOP-QA-014 v.4 Regulatory strategy and Technical file, effective 21 Dec 21, 2022
+Identification of the Associated Product (if applicable)
+N/A
+Context and significance for MDSAP:
+CLIENT RESPONSE
+Root cause analysis and root cause(s):	Cause Analysis:
+a)
+SOP-QA-002 Controlled Documentation, Version 4, outlines GATT process related to control of documents and control of records. The section 6.3 of the procedure presents types of controlled documents in use within GATT Technologies. SOP-QA-422 GATT Quality Manual, Version 7, section 5.5. Figure 5.1 Authorization matrix, concerns mandatory routing for different types of GATT‘s controlled documents. By mistake, caused by the process of developing various categories of GATT’s controlled documents in past, the two lists of documents (SOP-QA-002 section 6.3 and SOP-QA-422 section 5.5) are not fully equivalent (as example, quality specification is not explicitly cited in SOP-QA-002). b)
+Handling of GATT external documents, including QMS documents of suppliers, is described in the Attachment of SOP-QA-002 Controlled Documentation.
+In January 2022, GATT auditors carried out supplier audit at Gelita Medical GmbH (ref.: SA-01-2022). The audit was performed remotely due to pending covid-19 restrictions at the supplier side. There was a set of documents discussed and requested by GATT from supplier (Gelita Medical), related to animal origin raw material. Those documents were handed over during or after the audit.
+However, at the time of the supplier’s documents takeover, the control of specific GATT external documents was still not properly described within SOP-QA-002 (details within NCR22011 BSI 2190967-202205-N5 External docs). Moreover, by mistake, the corrective actions of NCR22011 were not retrospectively and fully applied for external documentation of Gelita Medical, available at GATT at the time of NCR22011 closing. c)
+SOP-QA-002 Controlled Documentation, together with reference to SOP-QA-001 Guideline to creation of SOPs, concerns GATT system of creation and maintenance of controlled documents and records.
+References to ISO 22442 standards are present in specific GATT SOPs, but the standard(s) not cited precisely (section #, absent year if issue) or not cited or stated in reference sections at all.
+Although SOP-QA-001 specifies mandatory content of GATT procedures, including Reference section, the SOP-QA-002 Controlled Documentation does not define a general rule for citation of a standard with regards to format of this citation.
+Cause(s):
+SOP-QA-002 Controlled Documentation is not specific enough in listing of controlled documents and in specification of standards’ reference. Also, the procedure was not properly followed with regard to external (supplier) documentation. a, b, c) Inadequate process
+
+Correction(s) to eliminate detected nonconformity:
+The non-conformity has been recorded (NCR23014) and investigation of the root cause of the non-conformity has 
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000739
+Description of nonconformity:	Requirement:
+ISO 22442-2:2020, section 4.4
+Responsibility for the collection, handling, and storage of materials shall be assigned to qualified personnel as follows. The manufacturer shall establish and maintain procedures for identifying the training needs and provide for the training of all personnel performing activities affecting quality. The manufacturer shall ensure that personnel performing specific assigned tasks are qualified on the basis of appropriate education, training, and/or experience as required. Appropriate records of training shall be maintained. Personnel directly involved in the collection and handling of material of animal origin shall be personnel employed by the device manufacturer or designated and adequately trained abattoir employees or the equivalent. The same requirements apply to personnel of all subcontractors.
+EN ISO 13485:2016: section 7.4
+7.4 Purchasing
+7.4.1 Purchasing process
+The organization shall establish criteria for the evaluation and selection of suppliers. The criteria shall be:
+based on the supplier’s ability to provide product that meets the organization’s requirements;
+based on the performance of the supplier;
+based on the effect of the purchased product on the quality of the medical device;
+proportionate to the risk associated with the medical device.
+The organization shall plan the monitoring and re-evaluation of suppliers. Supplier performance in
+meeting requirements for the purchased product shall be monitored. The results of the monitoring shall provide an input into the supplier re-evaluation process. Non-fulfilment of purchasing requirements shall be addressed with the supplier proportionate to the risk associated with the purchased product and compliance with applicable regulatory requirements.
+Records of the results of evaluation, selection, monitoring and re-evaluation of supplier capability or performance and any necessary actions arising from these activities shall be maintained (see 4.2.5).
+7.4.2 Purchasing information
+Purchasing information shall describe or reference the product to be purchased, including as appropriate:
+product specifications;
+requirements for product acceptance, procedures, processes and equipment;
+requirements for qualification of supplier personnel;
+quality management system requirements.
+The organization shall ensure the adequacy of specified purchasing requirements prior to their
+communication to the supplier.
+To the extent required for traceability given in 7.5.9, the organization shall maintain relevant purchasing information in the form of documents (see 4.2.4) and records (see 4.2.5).
+7.4.3 Verification of purchased product
+The organization shall establish and implement the inspection or other activities necessary for ensuring that purchased product meets specified purchasing requirements. The extent of verification activities shall be based on the supplier evaluation results and proportionate to the risks associated with the purchased product.
+When the organization becomes aware of any changes to the purchased product, the organization shall determine whether these changes affect the product realization process or the medical device.
+MDR - Annex 1, GSPR 13.2
+13.2. For devices manufactured utilising tissues or cells of animal origin, or their derivatives, which are non-viable or rendered non-viable the following shall apply: (a) where feasible taking into account the animal species, tissues and cells of animal origin, or their derivatives, shall originate from animals that have been subjected to veterinary controls that are adapted to the intended use of the tissues. Information on the geographical origin of the animals shall be retained by manufacturers; (b) sourcing, processing, preservation, testing and handling of tissues, cells and substances of animal origin, or their derivatives, shall be carried out so as to provide safety for patients, users and, where applicable, other persons. In particular safety with regard to viruses and other transmissible agents shall be addressed by implementation of validated methods of elimination or viral inactivation in the course of the manufacturing process, except when the use of such methods would lead to unacceptable degradation compromising the clinical benefit of the device;
+ISO 22442-1:2020
+Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management
+Description of Non-Conformity:
+Due to the utilization of material of porcine origin part of the manufacturing and documentation were outsourced. The criteria for the selection and evaluation of the suppliers are not laid down in sufficient detail in the high-level documents to picture all requirements of the applicable standards for animal origin. Eventual non-fulfilment of the requirements for supplier personnel (e.g., in the CV) was not raised. The product to be purchased was not specified in sufficient detail (e.g., minimum content of the supplier audit report). The verification of purchased product is not consistently done.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Major
+Due date to submit evidence of implementation:
+Status of the nonconformity:	Awaiting response
+Supporting objective evidence:	Supporting Objective Evidence:
+QA-008 008 audits version 6 25 August 2022
+QR-QA-001 GATT audit plan, version 10, 15 Feb. 2023
+SOP-QA-004, Version 4, Risk Management Procedure
+SA-01-2022 Gelita medical audit report for supplier audit
+SOP-SC-001 Purchasing Version No. 4
+Identification of the Associated Product (if applicable) GATT-Patch Context and significance for MDSAP:
+CLIENT RESPONSE
+Root cause analysis and root cause(s):	Cause Analysis:
+The animal origin raw material fibrous gelatin sheet, used as component during production of GATT-Patch, is supplied by Gelita Medical GmbH.
+The respective sections of MDR and series of the standard ISO 224422 specify regulatory requirements on control of risks related to animal origin materials used in medical devices. Based on the investigation, those requirements may impact the following processes, related procedures and quality records within GATT QMS:
+Purchasing, Supplier Control and Audit processes: SOP-SC-001 Purchasing, Version 4, – purchase order requirements on animal origin materials
+SOP-SC-002 Supplier Selection and Assessment, Version 3, – requirements on animal origin material supplier and requirements on consultants for AO area
+SOP-QA-008 Audit, Version 6, – requirements on auditing of AO material suppliers Risk Management process:
+SOP-QA-004 Risk Management Procedure, Version 4, and SOP-QA-014 Clinical Evaluation and PMSF, Version 2, – definition of GATT approach to risk assessment process related to animal origin materials
+DHF-01-SFT-157 GATT-Patch Risk Management Report Animal Origin, Version 3, – regular report on identified risks and their mitigation Training process
+SOP-RM-001 Training, Version 6, – requirements on training for personnel in contact with AO type of materials. However, the respective GATT procedures that concern animal origin raw material are not specific enough to capture all the ISO 22442 requirements. Moreover, the supplier of AO material, Gelita Medical GmbH, was not fully cooperative in providing necessary information as the mutual Quality Agreement signed with the supplier was not exact on details of information to be provided.
+The above facts resulted into situation where animal origin material risk file DHF-01-SFT-157 was created using incomplete information. (Note: the supplier currently works on new version of risk assessment of their manufacturing process).
+Also, GATT uses external experts for support in the risk assessments, but the CVs of involved experts were not properly reviewed for ISO22442 competence.
+There is no sufficient awareness within broader GATT team regarding ISO 22442 as this standard is absent in the GATT annual training plan.
+Cause(s):
+Gaps in GATT procedures caused by combination of the following aspects: underestimation of ISO 22442 implementation process, lack of the supplier cooperativeness and insufficient training of GATT staff.
+
+Correction(s) to eliminate detected nonconformity:
+Inadequate process Inadequate training
+The non-conformity has been recorded (NCR23015) and investigation of the root cause of the non-conformity has 
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000740
+Description of nonconformity:	Requirement:
+EN ISO 13485:2016: section 7.4.2
+ISO 22442-1:2020
+Medical devices utilizing animal tissues and their derivatives - Part 1: Application of risk management
+ISO 22442-2:2020,
+4.2 Quality system elements
+A documented system shall be established and maintained to control the quality of materials of animal origin and shall be verified by the medical device manufacturer. …Compliance is checked by inspection of the appropriate documents, including:
+… the geographical origin (such as country or region) of the animal material, … including full traceability to the slaughterhouse.
+The geographical origin can include the animal’s place of birth and the countries or regions in which it has lived during its lifetime as well as its place of slaughter. It is advisable that the manufacturer document the extent to which the geographical origin of the animal can be traced taking into account the application of risk management (see ISO 22442-1);
+hygiene and quality assurance requirements to be met by the slaughterer including the provisions in the slaughterhouse to prevent cross-contamination within and between animals;
+Handling
+If any material of animal origin requires further dissection or trimming, it shall be removed as soon as possible to an area separate from that used for slaughtering and collection. This area shall be suitably equipped and maintained at an appropriate level of cleanliness and environmental protection. Implements for dissection and trimming shall be kept clean to minimize risk of cross-contamination. Ideally, a dedicated set of tools should be used for trimming and kept separate from the ones used for harvesting.
+Source materials to be utilized in medical devices shall be segregated for delivery according to a documented procedure.
+The manufacturer shall be responsible for ensuring that the handling of the material is conducted in accordance with the documented procedures.
+5.4 Inspection
+Sourcing of animal material shall be subject to control and individual inspection by a veterinarian.
+There will, however, be some source-species where this is not possible (e.g. fish, crustaceans, cervids, mink, cat). If individual animals cannot be inspected, the justification for this shall be documented and a relevant sampling plan provided.
+Description of Non-Conformity:
+For the traceability of the sourcing of porcine material, the list of countries but not the respective abattoirs are available. The traceability to individual animals neither. The risk-based acceptance or justification were missing.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Minor
+
+REVIEW OF CLIENT RESPONSE
+
+
+NONCONFORMITY DETAILS
+Nonconformity number:	TNR-000741
+Description of nonconformity:	Requirement:
+ISO 22442-1:2020, section 4.6 Production and post-production information system
+Manufacturers shall ensure that the system identifies changes in the zoonosis status of the chosen source of animal materials. Any change in zoonotic status of the source material shall be considered in the risk management evaluation.
+ISO 22442-3:2007, section 5 and Annex A
+Literature review
+5.1 Conduct of the literature review
+A literature review shall be performed as specified in Annex A, in order to identify and analyse data on the elimination and/or inactivation of viruses and TSE agents.
+5.2 Application of literature review output
+Technical information from the literature review shall be used in optimizing the design of an inactivation and/or elimination study. Any extrapolation based on the inactivation of viruses and TSE agents shall be justified and documented. Intrinsic variability of materials of animal origin utilized in medical devices and of manufacturing processes can lead to misinterpretation of the validity of published data and shall be taken into account.
+5.3 Viruses
+The manufacturer shall demonstrate whether the literature review provides an indication of which inactivation and/or elimination steps are likely to be effective. A literature review is a prerequisite to performing a viral inactivation study. In exceptional cases, if a manufacturer chooses not to perform a study, this shall be justified and documented. If the available information does not support the elimination and/or inactivation of viruses, then an alternative risk management strategy shall be implemented (see ISO 22442-1).
+Annex A (normative)
+Requirements related to literature review
+Description of Non-Conformity:
+The criteria for the monitoring of zoonosis status, reporting and the risk evaluation are not laid down in sufficient detail in the high-level documents. The acceptance and consideration of the gap to the state of the art with regard to the zoonosis report by the manufacturer was missing.
+Requirement for each audited scheme that is not fulfilled:
+Scheme:
+Nonconformity - Major
+Context and significance for MDSAP:
+CLIENT RESPONSE
+Root cause analysis and root cause(s):	Cause Analysis:
+
+Correction(s) to eliminate detected nonconformity:
+The animal origin raw material fibrous gelatin sheet, used as component during production of GATT-Patch, is supplied by Gelita Medical GmbH. The company is qualified by ISO 13485 and claims compliance to ISO 22442 series. However, from confidentiality reasons, the supplier has not been not always fully cooperative on retrieving details necessary for animal origin material risk assessment. As already stated above (see cause analysis Finding Number 5 / NCR23015), the GATT procedures that concern animal origin raw material are not specific enough to capture all the ISO 22442 requirements. Thus, GATT requirements on monitoring of zoonosis status, reporting and risk evaluation are not properly considered withing respective SOPs (such as SOP-QA-016 Regulatory Strategy and SOP-QA-004 Risk Management Procedure), including frequency and criteria for obligatory monitoring and risk assessment tasks. Moreover, GATT own procedure on literature research is absent and thus for the current animal origin risk file DHF-01-SFT-157 GATT-Patch Risk Management Report Animal Origin, Version 3, the Animal Tissue Risk Assessment report from Gelita Medical (developed by sub-supplier Q-serve) was used to support the GATT’s own risk file. However, the report of Gelita Medical does not always use key search words relevant for GATT specific material. The above process resulted into the file DHF-01-SFT-157 that was created using incomplete information.
+Cause(s):
+Insufficient or absent GATT procedures to assure compliance with all ISO 22442 requirements (such as literature review, virus inactivation studies, etc.). Inadequate process
+The non-conformity has been recorded (NCR23017) and investigation of the root cause of the non-conformity has 
+been performed. Respective corrective action(s) will be 
+implemented
+
+
+
+Version History
+

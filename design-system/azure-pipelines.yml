@@ -1,0 +1,155 @@
+trigger:
+  branches:
+    include:
+      - '*'
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  node_version: '22.x'
+
+stages:
+  - stage: Build
+    displayName: 'Build Stage'
+    jobs:
+      - job: BuildJob
+        steps:
+          - checkout: self
+          - task: NodeTool@0
+            inputs:
+              versionSpec: $(node_version)
+            displayName: 'Install Node.js'
+
+          - task: Cache@2
+            inputs:
+              key: 'npm | "$(Agent.OS)" | package-lock.json'
+              restoreKeys: |
+                npm | "$(Agent.OS)"
+              path: $(Pipeline.Workspace)/.npm
+            displayName: 'Cache npm'
+
+          - script: |
+              npm config set cache $(Pipeline.Workspace)/.npm --global
+              npm ci
+            displayName: 'Install dependencies'
+
+          - task: Cache@2
+            inputs:
+              key: 'playwright | "$(Agent.OS)" | package-lock.json'
+              restoreKeys: |
+                playwright | "$(Agent.OS)"
+              path: $(HOME)/.cache/ms-playwright
+            displayName: 'Cache Playwright'
+
+          - script: |
+              sudo npx playwright install-deps
+              npx playwright install
+            displayName: 'Install Playwright browsers'
+
+          - script: npm run lint
+            displayName: 'Run lint checks'
+
+          - script: npm run test
+            displayName: 'Run unit tests'
+
+          - script: npm run build
+            displayName: 'Build project'
+
+          - task: PublishBuildArtifacts@1
+            inputs:
+              PathtoPublish: 'dist'
+              ArtifactName: 'dist'
+              publishLocation: 'Container'
+            displayName: 'Publish build artifact'
+
+          - bash: |
+              PKG_NAME=$(node -p "require('./package.json').name")
+              PKG_VERSION=$(node -p "require('./package.json').version")
+              PUBLISHED_VERSION=$(npm view "$PKG_NAME" version 2>/dev/null || echo "0.0.0")
+              if [ "$PKG_VERSION" = "$PUBLISHED_VERSION" ]; then
+                echo "##vso[task.setvariable variable=shouldPublish;isOutput=true]false"
+              else
+                echo "##vso[task.setvariable variable=shouldPublish;isOutput=true]true"
+              fi
+            name: setvars
+            displayName: 'Detect publish necessity'
+
+  - stage: NpmPublish
+    displayName: 'Publish to npm'
+    dependsOn:
+      - Build
+    condition: and(succeeded(), eq(dependencies.Build.outputs['BuildJob.setvars.shouldPublish'], 'true'))
+    jobs:
+      - deployment: NpmPublishJob
+        environment: prod # Replace with: manual-approval, prod & test if needed
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - checkout: self
+                - task: NodeTool@0
+                  inputs:
+                    versionSpec: $(node_version)
+                  displayName: 'Install Node.js'
+                - task: DownloadBuildArtifacts@0
+                  inputs:
+                    artifactName: 'dist'
+                    downloadPath: '$(Build.SourcesDirectory)'
+                - script: |
+                    npm config set cache $(Pipeline.Workspace)/.npm --global
+                    npm ci
+                  displayName: 'Install dependencies'
+                - script: npm publish --access=restricted
+                  displayName: 'Publish package to npm'
+
+  - stage: FigmaPublish
+    displayName: 'Publish to Figma registry'
+    dependsOn:
+      - Build
+      - NpmPublish
+    condition: and(succeeded('NpmPublish'), eq(dependencies.Build.outputs['BuildJob.setvars.shouldPublish'], 'true'))
+    variables:
+      - group: design-system-secrets
+    jobs:
+      - job: FigmaPublishJob
+        displayName: 'figmapublishjob'
+        steps:
+          - checkout: self
+
+          - task: NodeTool@0
+            inputs:
+              versionSpec: $(node_version)
+            displayName: 'Install Node.js'
+
+          - task: DownloadBuildArtifacts@0
+            inputs:
+              artifactName: 'dist'
+              downloadPath: '$(Build.SourcesDirectory)'
+            displayName: 'Download dist artifact'
+
+          - script: |
+              npm config set cache $(Pipeline.Workspace)/.npm --global
+              npm ci
+            displayName: 'Install dependencies'
+            env:
+              FIGMA_NPM_TOKEN: $(FIGMA_NPM_TOKEN)
+
+          - bash: |
+              PKG_VERSION=$(node -p "require('./package.json').version")
+              echo "Package version: $PKG_VERSION"
+
+              if node -e "process.exit(/-(alpha|beta|rc)(\.|$)/.test(process.argv[1]) ? 0 : 1)" "$PKG_VERSION"; then
+                echo "Prerelease detected -> skipping Figma mirror + publish"
+                exit 0
+              fi
+
+              npm run make:figma-mirror
+
+              echo "Mirror name: $(node -p "require('./dist-figma/package.json').name")"
+              echo "Mirror version: $(node -p "require('./dist-figma/package.json').version")"
+
+              npm publish ./dist-figma --access=restricted --registry=https://registry.figma.com/npm/47b70d29-1b38-4307-bc23-1c0fda0d77f3/registry/
+            displayName: 'Publish mirror to Figma (skip prerelease)'
+            env:
+              FIGMA_NPM_TOKEN: $(FIGMA_NPM_TOKEN)

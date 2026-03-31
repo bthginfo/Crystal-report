@@ -1,0 +1,246 @@
+{
+	"base-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.surface.neutral.default}"
+	},
+	"base-accent": {
+		"$type": "color",
+		"$value": "{semantic.color.text.primary.default}"
+	},
+	"base-danger": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.default}"
+	},
+	"tabs-tab-bg": {
+		"$type": "color",
+		"$value": "transparent"
+	},
+	"toast-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.base.default}"
+	},
+	"base-success": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.default}"
+	},
+	"base-warning": {
+		"$type": "color",
+		"$value": "{semantic.color.background.warning.default}"
+	},
+	"base-focus-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.border.primary.focused}"
+	},
+	"base-hover-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.base.hover}"
+	},
+	"texteditor-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.base.default}"
+	},
+	"toast-info-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.subtle.default}"
+	},
+	"toast-error-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.subtle.default}"
+	},
+	"base-icon-color": {
+		"$type": "color",
+		"$value": "{semantic.color.icon.neutral.default}"
+	},
+	"base-link-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.primary.default}"
+	},
+	"base-text-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.base.default}"
+	},
+	"base-focus-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.inverted.default}"
+	},
+	"base-font-family": {
+		"$type": "fontFamilies",
+		"$value": "{fontFamily.default}"
+	},
+	"base-hover-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.base.default}"
+	},
+	"base-label-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.neutral.default}"
+	},
+	"button-danger-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.default}"
+	},
+	"button-normal-bg": {
+		"$type": "color",
+		"$value": "transparent"
+	},
+	"toast-success-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.subtle.default}"
+	},
+	"toast-warning-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.warning.subtle.default}"
+	},
+	"base-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.default}"
+	},
+	"button-default-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.default}"
+	},
+	"button-success-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.default}"
+	},
+	"selectbox-list-bg": {
+		"$type": "color",
+		"$value": "{semantic.color.background.base.default}"
+	},
+	"tabs-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.default}"
+	},
+	"base-border-radius": {
+		"$type": "number",
+		"$value": "{semantic.size.radius.md}"
+	},
+	"base-invalid-color": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.default}"
+	},
+	"button-danger-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.inverted.default}"
+	},
+	"button-normal-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.base.default}"
+	},
+	"button-default-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.inverted.default}"
+	},
+	"button-success-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.inverted.default}"
+	},
+	"pivotgrid-area-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.neutral.default}"
+	},
+	"tabs-tab-selected-bg": {
+		"$type": "color",
+		"$value": "transparent"
+	},
+	"button-normal-text-bg": {
+		"$type": "color",
+		"$value": "transparent"
+	},
+	"tabs-tab-selected-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.primary.default}"
+	},
+	"button-default-text-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.primary.default}"
+	},
+	"button-normal-outlined-bg": {
+		"$type": "color",
+		"$value": "transparent"
+	},
+	"button-danger-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.default}"
+	},
+	"button-normal-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.default}"
+	},
+	"button-default-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.default}"
+	},
+	"button-success-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.default}"
+	},
+	"texteditor-placeholder-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.neutral.default}"
+	},
+	"button-default-outlined-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.primary.default}"
+	},
+	"button-danger-text-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.disabled}"
+	},
+	"button-normal-text-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.disabled}"
+	},
+	"base-invalid-faded-border-color": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.disabled}"
+	},
+	"button-default-text-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.disabled}"
+	},
+	"button-success-text-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.disabled}"
+	},
+	"datagrid-columnchooser-item-color": {
+		"$type": "color",
+		"$value": "{semantic.color.text.neutral.default}"
+	},
+	"button-danger-outlined-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.disabled}"
+	},
+	"button-normal-outlined-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.disabled}"
+	},
+	"datagrid-columnchooser-font-weight": {
+		"$type": "number",
+		"$value": "400"
+	},
+	"button-danger-contained-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.danger.active}"
+	},
+	"button-default-outlined-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.disabled}"
+	},
+	"button-normal-contained-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.border.base.active}"
+	},
+	"button-success-outlined-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.disabled}"
+	},
+	"button-default-contained-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.primary.active}"
+	},
+	"button-success-contained-bg-selected": {
+		"$type": "color",
+		"$value": "{semantic.color.background.success.active}"
+	}
+}

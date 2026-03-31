@@ -1,0 +1,22 @@
+[
+	{
+		"name": "light",
+		"group": "TS-Variables",
+		"selectedTokenSets": {
+			"Core/light": "source",
+			"Core/dimension": "source",
+			"Core/typography": "source",
+			"Semantic": "enabled"
+		}
+	},
+	{
+		"name": "dark",
+		"group": "TS-Variables",
+		"selectedTokenSets": {
+			"Core/dark": "source",
+			"Core/dimension": "source",
+			"Core/typography": "source",
+			"Semantic": "enabled"
+		}
+	}
+]
